@@ -121,19 +121,34 @@ skills:
     items:
       - name: Functional MRI
       - name: Diffusion MRI tractography
-        # description: |
-        #   Diffusion MRI tractography, transcriptomics, receptor density, PET, deep-brain stimulation, pharmaco-MRI; human, macaque, marmoset, mouse
+      - name: Transcriptomics
+      - name: Receptor density
+      - name: Positron Emission Tomography
+      - name: Brain stimulation
+      - name: Pharmaco-MRI
         percent: ''
         # icon: code-bracket
-      - name: Data Science and Statistics
-        description: |
-          Traditional & multilevel meta-analysis methods; Linear Mixed Modelling; Graph theory; Bayesian statistics; Information Decomposition; Dominance Analysis; Multivariate analysis (Partial Least Squares, Canonical Correlation Analysis)
+  - name: Data Science and Statistics
+    icon: chart-bar
+    items:
+      - name: Meta-analysis
+      - name: Linear Mixed Modelling
+      - name: Graph theory
+      - name: Information Decomposition
+      - name: Dominance Analysis
+      - name: Multivariate analysis (Partial Least Squares)
+      - name: Bayesian statistics
+        # description: |
+        #   Traditional & multilevel meta-analysis methods; Linear Mixed Modelling; Graph theory; Bayesian statistics; Information Decomposition; Dominance Analysis; Multivariate analysis (Partial Least Squares, Canonical Correlation Analysis)
         percent: ''
-        icon: chart-bar
-      - name: Computational modelling
-        description: Biophysical models to simulate brain activity; Artificial neural networks (reservoir computing)
+  - name: Computational modelling
+    icon: circle-stack
+    items:
+      - name: Biophysical models to simulate brain activity
+      - name: Artificial neural networks (reservoir computing)
+      - name: Null models for network neuroscience
+        # description: Biophysical models to simulate brain activity; Artificial neural networks (reservoir computing)
         percent: ''
-        icon: circle-stack
 
 
 languages:
