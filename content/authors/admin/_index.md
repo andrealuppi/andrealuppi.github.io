@@ -61,7 +61,7 @@ education:
     date_start: 2019-10-01
     date_end: 2022-06-01
     summary: |
-      Thesis title: _Complex, yet Resolved: Time-, Frequency-, and Information-resolved Approaches to Brain Function and Human Consciousness_. Supervised by Prof Emmanuel Stamatakis at the [Cognition and Consciousness Imaging Group](https://sites.google.com/site/ccigcambridge/). Finalist for the FENS-Kavli PhD Prize; awarded Cambridge's _Milo Keynes Outstanding Dissertation Prize_.
+      Thesis title: _Complex, yet Resolved: Time-, Frequency-, and Information-resolved Approaches to Brain Function and Human Consciousness_. Supervised by Prof Emmanuel Stamatakis. Finalist for the FENS-Kavli PhD Prize; awarded Cambridge's _Milo Keynes Outstanding Dissertation Prize_.
     button:
       text: 'Read Thesis'
       url: 'https://doi.org/10.17863/CAM.88483'
@@ -95,7 +95,7 @@ work:
     date_start: 2022-09-01
     date_end: 2023-12-31
     summary: |2-
-      Postdoctoral researcher at the [Network Neuroscience Lab](https://netneurolab.github.io/) of Prof. Bratislav Misic. Awarded _UNIQUE Neuro-AI Excellence_ and _Brain Star Award_ of the Canadian Association for Neuroscience.
+      Postdoctoral researcher with Prof. Bratislav Misic at the Network Neuroscience Lab. Awarded _UNIQUE Neuro-AI Excellence Scholarship_ and _Brain Star Award_ of the Canadian Association for Neuroscience.
   - position: Visiting Researcher
     company_name: European Institute for Theoretical Neuroscience, Paris-Saclay University, France
     company_url: 'https://www.eitn.org/'
@@ -158,9 +158,8 @@ awards:
     date: '2025-03-01'
     awarder: Canadian Association for Neuroscience
     summary: |
-      Annual prize for research excellence, for my [publication](
-      https://doi.org/10.1038/s41551-024-01242-2) in _Nature Biomedical Engineering_.
-  - title: 'Early-Career Fellowship'
+      Annual prize for research excellence, for my publication in _Nature Biomedical Engineering_.
+  - title: 'Wellcome Early-Career Fellowship'
     date: '2024-04-20'
     awarder: Wellcome Trust
     summary: |
@@ -174,7 +173,7 @@ awards:
     date: '2024-11-11'
     awarder: Universal Scientific and Education Research Network (USERN)
     summary: |
-      Awarded for my [work](https://doi.org/10.1038/s41593-022-01070-0) on information synergy in the brain.
+      Awarded for my work on information synergy in the brain.
   - title: '_Italy Made Me_ Prize in Life Sciences'
     date: '2024-12-04'
     awarder: Italian Embassy in the UK 
@@ -284,12 +283,12 @@ awards:
 
 ## About Me
 
-I am a computational and cognitive neuroscientist interested in how the brain gives rise to consciousness and flexible cognition. My work combines brain imaging, computational modeling, and complex systems. I integrate imaging modalities across species, drawing on methods from network science and information theory to investigate how the brain's connectivity and dynamics support thought, perception, and awareness.
+I am a computational and cognitive neuroscientist interested in how the brain gives rise to consciousness and flexible cognition. My work combines brain imaging, computational modelling, and complex systems. I integrate imaging modalities across species, drawing on methods from network science and information theory to investigate how the brain's connectivity and dynamics support thought, perception, and awareness.
 
 A major focus of my research is understanding how brain networks reconfigure across different states — such as wakefulness, sleep, anesthesia, and disorders of consciousness — and what these changes reveal about the neural mechanisms of conscious experience. 
 
-Ultimately, my research seeks to bridge basic and translational neuroscience: advancing theories of brain function while providing insights relevant to neurology, anesthesiology,a nd psychiatry. I am also interested in bridging biological and artificial intelligence.
+Ultimately, my research seeks to bridge basic and translational neuroscience: advancing theories of brain function while providing insights relevant to neurology, anesthesiology, and psychiatry. I am also interested in bridging biological and artificial intelligence.
 
 I regularly devote time to method-benchmarking efforts for the community, to increase reproducibility and credibility of neuroimaging results. Recent efforts include assessment of [700+ data-processing pipelines for fMRI](https://doi.org/10.1038/s41467-024-48781-5) and assessing the [translational potential of macaque brain gene expression](https://doi.org/10.1126/sciadv.ads6967).
 
-Alongside my research, I am passionate about promoting access to higher education (read my [Editorial](https://doi.org/10.1371/journal.pcbi.1009276), 'Ten simple rules for aspiring graduate students'), promoting interdisciplinary training and research ([list of open resurces for Neuro-AI training](https://github.com/8erberg/NeuroAI_Trainee_Resources)), and [improving the research culture](https://doi.org/10.1038/s41583-025-00946-x) in neuroscience. 
+Alongside my research, I am passionate about promoting access to higher education (['Ten simple rules for aspiring graduate students'](https://doi.org/10.1371/journal.pcbi.1009276)), promoting interdisciplinary training and research ([list of open resurces for Neuro-AI training](https://github.com/8erberg/NeuroAI_Trainee_Resources)), and [improving the research culture](https://doi.org/10.1038/s41583-025-00946-x) in neuroscience. 
