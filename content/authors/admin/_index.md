@@ -150,133 +150,133 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below. url possible, also icon
 awards:
   - title: Credibility in Neuroscience Prize
-    date: '2025-03-01'
+    date: '2025-04-15'
     awarder: British Neuroscience Association
     summary: |
       Recognition for outstanding efforts to make neuroscience research as credible as possible.
   - title: Brain Star Award
-    date: '2025'
+    date: '2025-03-01'
     awarder: Canadian Association for Neuroscience
     summary: |
       Annual prize for research excellence, for my [publication](
       https://doi.org/10.1038/s41551-024-01242-2) in _Nature Biomedical Engineering_.
   - title: 'Early-Career Fellowship'
-    date: '2024'
+    date: '2024-04-20'
     awarder: Wellcome Trust
     summary: |
       Secured competitive funding for proposed research (GBP ~600,000).
   - title: 'Junior Research Fellowship'
-    date: '2024'
+    date: '2024-01-17'
     awarder: St John's College Cambridge
     summary: |
       Elected Fellow of St John's College following an open competition in all disciplines.
   - title: 'Prize Laureate in Formal and Theoretical Sciences'
-    date: '2024'
+    date: '2024-11-11'
     awarder: Universal Scientific and Education Research Network (USERN)
     summary: |
       Awarded for my [work](https://doi.org/10.1038/s41593-022-01070-0) on information synergy in the brain.
   - title: '_Italy Made Me_ Prize in Life Sciences'
-    date: '2024'
+    date: '2024-12-04'
     awarder: Italian Embassy in the UK 
     summary: |
       Winner of the annual award in Life Sciences for Italian young researchers working in the UK.
   - title: 'Runner-up, FENS-Kavli Network of Excellence PhD Prize'
-    date: '2024'
+    date: '2024-07-01'
     awarder: Federation of European Neuroscience Societies 
     summary: |
       Runner-up for the 2022-2024 Europe-wide PhD Thesis prize in neuroscience.
   - title: 'Banting Postdoctoral Fellowship'
-    date: '2023'
+    date: '2023-04-10'
     awarder: Government of Canada 
     summary: |
       Canada's flagship fellowship for postdoctoral research (CAD 140,000).
   - title: 'Neuro-AI Excellence Award'
-    date: '2023'
+    date: '2023-12-01'
     awarder: Union of Neuroscience and AI in Quebec (UNIQUE) Center
     summary: |
       Award for Neuro-AI research (CAD 20,000).
   - title: 'Poster Prize'
-    date: '2023'
+    date: '2023-11-01'
     awarder: German Society for Clinical Neurophysiology
     summary: |
       Best poster award at the Annual Congress in Hamburg.
   - title: 'Molson Neuro-Engineering Fellowship'
-    date: '2022'
+    date: '2022-09-01'
     awarder: Montreal Neurological Institute 
     summary: |
       Competitive postdoctoral funding for work at the intersection of neuroscience and engineering (CAD 50,000).
   - title: 'Milo Keynes Outstanding Dissertation Prize'
-    date: '2022'
+    date: '2022-12-01'
     awarder: University of Cambridge
     summary: |
       Prize for best PhD thesis in the School of Clinical Medicine.
   - title: 'Travel Grant'
-    date: '2022'
+    date: '2022-06-01'
     awarder: Guarantors of Brain
     summary: |
       Travel grant to attend 2022 OHBM conference.
   - title: 'Fearnsides Award'
-    date: '2022'
+    date: '2022-06-01'
     awarder: University of Cambridge
     summary: |
       Grant for collaboration at the European Institute for Theoretical Neuroscience in Paris.
   - title: 'Travel Grants'
-    date: '2020-2022'
+    date: '2020-01-01'
     awarder: Selwyn College, Cambridge; Gates Cambridge Trust
     summary: |
       Travel grants for registration to OHBM 2020, OHBM 2021, CCS 2022.
   - title: 'Gates Cambridge Scholarship and Honorary Vice-Chancellor Award'
-    date: '2019-2022'
+    date: '2019-10-01'
     awarder: University of Cambridge
     summary: |
       Full funding for the PhD at the University of Cambridge.
   - title: 'Stimson Grant'
-    date: '2019'
+    date: '2019-03-01'
     awarder: Harvard University
     summary: |
       Departmental award to present at the Cognitive Neuroscience Society meeting.
   - title: 'Gates Cambridge Scholarship'
-    date: '2017-2018'
+    date: '2017-09-01'
     awarder: University of Cambridge
     summary: |
       Full funding for the MPhil degree at the University of Cambridge.
   - title: 'Clarendon Scholarship'
-    date: '2016-2017'
+    date: '2016-10-01'
     awarder: University of Oxford
     summary: |
       Full funding for the MSc degree at the University of Oxford.
   - title: 'Gibbs Prize in Psychological Studies'
-    date: '2016'
+    date: '2016-06-20'
     awarder: University of Oxford
     summary: |
       Best overall performance in the Psychology, Philosophy and Linguistics course.
   - title: 'Gibbs Prize in Philosophy'
-    date: '2016'
+    date: '2016-06-20'
     awarder: University of Oxford
     summary: |
       Best performance in the Philosophy final-year examination.
   - title: 'Iversen Prize in Psychology'
-    date: '2015'
+    date: '2015-04-15'
     awarder: University of Oxford
     summary: |
       Best performance in the PPL second-year examination.
   - title: 'Braddick Prize in Psychology'
-    date: '2014'
+    date: '2014-04-15'
     awarder: University of Oxford
     summary: |
       Best performance in the PPL first-year examination.
   - title: 'Casberd Scholarship'
-    date: '2014-2016'
+    date: '2014-04-15'
     awarder: St John's College, Oxford
     summary: |
       Elected Scholar for outstanding performance in first-year examinations.
   - title: 'Mensa International Scholarship'
-    date: '2014'
+    date: '2014-01-01'
     awarder: Mensa Education and research Foundation
     summary: |
       Winner of world-wide competition for a scholarship.
   - title: 'Albo Nazionale delle Eccellenze'
-    date: '2008 & 2009'
+    date: '2009-05-01'
     awarder: Italian Ministory of Education
     summary: |
       National Excellence Registry for academic achievement.
