@@ -56,8 +56,8 @@ interests:
   - Artificial Intelligence and Neuro-AI
 
 education:
-  - area: PhD Neuroscience (Gates Scholar)
-    institution: University of Cambridge (Selwyn College)
+  - area: PhD Neuroscience #(Gates Scholar)
+    institution: University of Cambridge #(Selwyn College)
     date_start: 2019-10-01
     date_end: 2022-06-01
     summary: |
@@ -70,19 +70,19 @@ education:
     date_start: 2018-08-01
     date_end:  2019-07-01
   - area: MPhil Clinical Neurosciences
-    institution: University of Cambridge (Christ's College)
+    institution: University of Cambridge #(Christ's College)
     date_start: 2017-10-01
     date_end: 2018-07-01
     summary: |
       Gates Cambridge Scholar. Thesis published in _Nature Communications_
   - area: MSc Neuroscience
-    institution: University of Oxford (New College)
+    institution: University of Oxford #(New College)
     date_start: 2016-09-25
     date_end: 2017-09-30
     summary: |
       Clarendon Scholar. Awarded Distinction. Thesis published in _The Journal of Neuroscience_
   - area: BA Psychology, Philosophy, and Linguistics
-    institution: University of Oxford (St John's College)
+    institution: University of Oxford #(St John's College)
     date_start: 2013-10-13
     date_end: 2016-06-30
     summary: |
