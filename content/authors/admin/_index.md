@@ -150,7 +150,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below. url possible, also icon
 awards:
   - title: Credibility in Neuroscience Prize
-    date: '2025'
+    date: '2025-03-01'
     awarder: British Neuroscience Association
     summary: |
       Recognition for outstanding efforts to make neuroscience research as credible as possible.
