@@ -25,3 +25,6 @@ main:
   - name: Papers
     url: /#papers
     weight: 11
+  - name: Awards
+    url: awards/
+    weight: 20

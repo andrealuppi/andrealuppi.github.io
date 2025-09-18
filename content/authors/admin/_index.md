@@ -136,7 +136,7 @@ skills:
       - name: Graph theory
       - name: Information Decomposition
       - name: Dominance Analysis
-      - name: Multivariate analysis (Partial Least Squares)
+      - name: Multivariate analysis # (Partial Least Squares)
       - name: Bayesian statistics
         # description: |
         #   Traditional & multilevel meta-analysis methods; Linear Mixed Modelling; Graph theory; Bayesian statistics; Information Decomposition; Dominance Analysis; Multivariate analysis (Partial Least Squares, Canonical Correlation Analysis)
