@@ -61,7 +61,10 @@ education:
     date_start: 2019-10-01
     date_end: 2022-06-01
     summary: |
-      Thesis title: _Complex, yet Resolved: Time-, Frequency-, and Information-resolved Approaches to Brain Function and Human Consciousness_. Supervised by Prof Emmanuel Stamatakis. Finalist for the FENS-Kavli PhD Prize; awarded Cambridge's _Milo Keynes Outstanding Dissertation Prize_.
+      Thesis title: _Complex, yet Resolved: Time-, Frequency-, and Information-resolved Approaches to Brain Function and Human Consciousness_. 
+      Supervised by Prof Emmanuel Stamatakis. 
+      Finalist for the FENS-Kavli PhD Prize.
+      Awarded Cambridge's _Milo Keynes Outstanding Dissertation Prize_.
     button:
       text: 'Read Thesis'
       url: 'https://doi.org/10.17863/CAM.88483'
@@ -74,28 +77,33 @@ education:
     date_start: 2017-10-01
     date_end: 2018-07-01
     summary: |
-      Gates Cambridge Scholar. Thesis published in _Nature Communications_
+      Gates Cambridge Scholar. 
+      Thesis published in _Nature Communications_
   - area: MSc Neuroscience
     institution: University of Oxford #(New College)
     date_start: 2016-09-25
     date_end: 2017-09-30
     summary: |
-      Clarendon Scholar. Awarded Distinction. Thesis published in _The Journal of Neuroscience_
+      Clarendon Scholar. Awarded Distinction. 
+      Thesis published in _The Journal of Neuroscience_
   - area: BA Psychology, Philosophy, and Linguistics
     institution: University of Oxford #(St John's College)
     date_start: 2013-10-13
     date_end: 2016-06-30
     summary: |
-      Awarded Congratulatory First Class (top-ranked). Casberd Scholar, St John's College Oxford. Awarded Gibbs Prize in Philosophy, Gibbs Prize in Psychological Studies, Iversen Prize in Psychological Studies, and Braddick Prize in Psychological Studies.
+      Awarded Congratulatory First Class (top-ranked). 
+      Casberd Scholar, St John's College Oxford. 
+      Awarded Gibbs Prize in Philosophy, Gibbs Prize in Psychological Studies, Iversen Prize in Psychological Studies, and Braddick Prize in Psychological Studies.
 work:
-  - position: Molson Neuro-Engineering Fellow and Banting Postdoctoral Fellow
+  - position: Banting Postdoctoral Fellow & Molson Neuro-Engineering Fellow
     company_name: Montreal Neurological Institute, McGill University
     company_url: 'https://www.mcgill.ca/neuro/'
     company_logo: ''
     date_start: 2022-09-01
     date_end: 2023-12-31
     summary: |2-
-      Postdoctoral researcher with Prof. Bratislav Misic at the Network Neuroscience Lab. Awarded _UNIQUE Neuro-AI Excellence Scholarship_ and _Brain Star Award_ of the Canadian Association for Neuroscience.
+      Postdoctoral researcher with Prof. Bratislav Misic at the Network Neuroscience Lab. 
+      Awarded _UNIQUE Neuro-AI Excellence Scholarship_ and _Brain Star Award_ of the Canadian Association for Neuroscience.
   - position: Visiting Researcher
     company_name: European Institute for Theoretical Neuroscience, Paris-Saclay University, France
     company_url: 'https://www.eitn.org/'

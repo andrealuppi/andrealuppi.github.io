@@ -5,7 +5,7 @@
 
 main:
   - name: Bio
-    url: /
+    url: /#bio
     weight: 10
   #- name: Talks
   #  url: /#talks
@@ -24,7 +24,7 @@ main:
   #  weight: 40
   - name: Papers
     url: /#papers
-    weight: 11
+    weight: 40
   - name: Awards
     url: awards/
-    weight: 20
+    weight: 30
