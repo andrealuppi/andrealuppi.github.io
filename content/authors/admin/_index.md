@@ -289,6 +289,8 @@ A major focus of my research is understanding how brain networks reconfigure acr
 
 Ultimately, my research seeks to bridge basic and translational neuroscience: advancing theories of brain function while providing insights relevant to neurology, anesthesiology, and psychiatry. I am also interested in bridging biological and artificial intelligence.
 
-I regularly devote time to method-benchmarking efforts for the community, to increase reproducibility and credibility of neuroimaging results. Recent efforts include assessment of [700+ data-processing pipelines for fMRI](https://doi.org/10.1038/s41467-024-48781-5) and assessing the [translational potential of macaque brain gene expression](https://doi.org/10.1126/sciadv.ads6967).
+I also regularly devote time to method-benchmarking efforts for the community, to increase reproducibility and credibility of neuroimaging results. Recent efforts include assessment of [700+ data-processing pipelines for fMRI](https://doi.org/10.1038/s41467-024-48781-5) and assessing the [translational potential of macaque brain gene expression](https://doi.org/10.1126/sciadv.ads6967).
 
 Alongside my research, I am passionate about promoting access to higher education (['Ten simple rules for aspiring graduate students'](https://doi.org/10.1371/journal.pcbi.1009276)), promoting interdisciplinary training and research ([list of open resurces for Neuro-AI training](https://github.com/8erberg/NeuroAI_Trainee_Resources)), and [improving the research culture](https://doi.org/10.1038/s41583-025-00946-x) in neuroscience. 
+
+Collaboration and interdisciplinarity are pillars of my work, so if you share any of the interests above, get in touch!
