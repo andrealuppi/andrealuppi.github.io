@@ -93,23 +93,23 @@ work:
     company_url: 'https://www.mcgill.ca/neuro/'
     company_logo: ''
     date_start: 2022-09-01
-    date_end: 12-2023
+    date_end: 2023-12-31
     summary: |2-
       Postdoctoral researcher at the [Network Neuroscience Lab](https://netneurolab.github.io/) of Prof. Bratislav Misic. Awarded _UNIQUE Neuro-AI Excellence_ and _Brain Star Award_ of the Canadian Association for Neuroscience.
   - position: Visiting Researcher
     company_name: European Institute for Theoretical Neuroscience, Paris-Saclay University, France
     company_url: 'https://www.eitn.org/'
     company_logo: ''
-    date_start: 06-2022
-    date_end: 07-2022
+    date_start: 2022-06-30
+    date_end: 2022-07-30
     summary: |2-
       Visiting researcher in the group of Prof. Alain Destexhe.
   - position: Visiting Researcher
     company_name: Max Planck Institute for Mathematics in the Sciences, Leipzig, Germany
     company_url: 'https://www.mis.mpg.de/'
     company_logo: ''
-    date_start: 06-2022
-    date_end: 06-2022
+    date_start: 2022-06-01
+    date_end: 2022-06-30
     summary: |2-
       Visiting researcher in the group of Prof. Juergen Jost.
 
