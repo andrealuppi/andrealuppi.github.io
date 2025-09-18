@@ -92,7 +92,7 @@ work:
     company_name: Montreal Neurological Institute, McGill University
     company_url: 'https://www.mcgill.ca/neuro/'
     company_logo: ''
-    date_start: 09-2022
+    date_start: 2022-09-01
     date_end: 12-2023
     summary: |2-
       Postdoctoral researcher at the [Network Neuroscience Lab](https://netneurolab.github.io/) of Prof. Bratislav Misic. Awarded _UNIQUE Neuro-AI Excellence_ and _Brain Star Award_ of the Canadian Association for Neuroscience.
