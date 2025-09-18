@@ -116,20 +116,22 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Multi-species Neuroimaging
+    icon: code-bracket
     items:
-      - name: Multi-species Neuroimaging
-        description: |
-          'Functional MRI, diffusion MRI tractography, transcriptomics, receptor density, PET, deep-brain stimulation, pharmaco-MRI; human, macaque, marmoset, mouse'
+      - name: Functional MRI
+      - name: Diffusion MRI tractography
+        # description: |
+        #   Diffusion MRI tractography, transcriptomics, receptor density, PET, deep-brain stimulation, pharmaco-MRI; human, macaque, marmoset, mouse
         percent: ''
-        icon: code-bracket
+        # icon: code-bracket
       - name: Data Science and Statistics
         description: |
-          'Traditional & multilevel meta-analysis methods; Linear Mixed Modelling; Graph theory; Bayesian statistics; Information Decomposition; Dominance Analysis; Multivariate analysis (Partial Least Squares, Canonical Correlation Analysis)'
+          Traditional & multilevel meta-analysis methods; Linear Mixed Modelling; Graph theory; Bayesian statistics; Information Decomposition; Dominance Analysis; Multivariate analysis (Partial Least Squares, Canonical Correlation Analysis)
         percent: ''
         icon: chart-bar
       - name: Computational modelling
-        description: 'Biophysical models to simulate brain activity; Artificial neural networks (reservoir computing)'
+        description: Biophysical models to simulate brain activity; Artificial neural networks (reservoir computing)
         percent: ''
         icon: circle-stack
 
