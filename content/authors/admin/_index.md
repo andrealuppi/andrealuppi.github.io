@@ -58,8 +58,8 @@ interests:
 education:
   - area: PhD Neuroscience (Gates Scholar)
     institution: University of Cambridge (Selwyn College)
-    date_start: October 2019
-    date_end: June 2022
+    date_start: 10-2019
+    date_end: 06-2022
     summary: |
       Thesis title: _Complex, yet Resolved: Time-, Frequency-, and Information-resolved Approaches to Brain Function and Human Consciousness_. Supervised by Prof Emmanuel Stamatakis at the [Cognition and Consciousness Imaging Group](https://sites.google.com/site/ccigcambridge/). Finalist for the FENS-Kavli PhD Prize; awarded Cambridge's _Milo Keynes Outstanding Dissertation Prize_.
     button:
@@ -67,24 +67,24 @@ education:
       url: 'https://doi.org/10.17863/CAM.88483'
   - area: Graduate program in Cognition, Brain, and Behavior
     institution: Harvard University
-    date_start: August 2018
-    date_end: July 2019
+    date_start: 08-2018
+    date_end:  07-2019
   - area: MPhil Clinical Neurosciences
     institution: University of Cambridge (Christ's College)
-    date_start: October 2017
-    date_end: July 2018
+    date_start: 10-2017
+    date_end: 07-2018
     summary: |
       Gates Cambridge Scholar. Thesis published in _Nature Communications_
   - area: MSc Neuroscience
     institution: University of Oxford (New College)
-    date_start: September 2016
-    date_end: September 2017
+    date_start: 09-2016
+    date_end: 09-2017
     summary: |
       Clarendon Scholar. Awarded Distinction. Thesis published in _The Journal of Neuroscience_
   - area: BA Psychology, Philosophy, and Linguistics
     institution: University of Oxford (St John's College)
-    date_start: October 2013
-    date_end: June 2016
+    date_start: 10-2013
+    date_end: 06-2016
     summary: |
       Awarded Congratulatory First Class (top-ranked). Casberd Scholar, St John's College Oxford. Awarded Gibbs Prize in Philosophy, Gibbs Prize in Psychological Studies, Iversen Prize in Psychological Studies, and Braddick Prize in Psychological Studies.
 work:
@@ -92,24 +92,24 @@ work:
     company_name: Montreal Neurological Institute, McGill University
     company_url: 'https://www.mcgill.ca/neuro/'
     company_logo: ''
-    date_start: September 2022
-    date_end: December 2023
+    date_start: 09-2022
+    date_end: 12-2023
     summary: |2-
       Postdoctoral researcher at the [Network Neuroscience Lab](https://netneurolab.github.io/) of Prof. Bratislav Misic. Awarded _UNIQUE Neuro-AI Excellence_ and _Brain Star Award_ of the Canadian Association for Neuroscience.
   - position: Visiting Researcher
     company_name: European Institute for Theoretical Neuroscience, Paris-Saclay University, France
     company_url: 'https://www.eitn.org/'
     company_logo: ''
-    date_start: June 2022
-    date_end: July 2022
+    date_start: 06-2022
+    date_end: 07-2022
     summary: |2-
       Visiting researcher in the group of Prof. Alain Destexhe.
   - position: Visiting Researcher
     company_name: Max Planck Institute for Mathematics in the Sciences, Leipzig, Germany
     company_url: 'https://www.mis.mpg.de/'
     company_logo: ''
-    date_start: June 2022
-    date_end: June 2022
+    date_start: 06-2022
+    date_end: 06-2022
     summary: |2-
       Visiting researcher in the group of Prof. Juergen Jost.
 
