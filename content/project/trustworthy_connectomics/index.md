@@ -1,7 +1,7 @@
 ---
 title: Trustworthy functional connectomics
 date: 2024-06-06
-external_link: hhttps://github.com/andrealuppi/Trustworthy-Functional-Connectomics
+external_link: https://github.com/andrealuppi/Trustworthy-Functional-Connectomics
 tags:
   - fMRI
   - network neuroscience
