@@ -20,13 +20,13 @@ main:
     url: skills/
     weight: 25
   - name: Software
-    url: software/
+    url: projects/
     weight: 27
   #- name: Teaching
   #  url: teaching/
   #  weight: 40
   - name: Publications
-    url: /papers
+    url: /#papers
     weight: 40
   - name: Awards
     url: awards/
