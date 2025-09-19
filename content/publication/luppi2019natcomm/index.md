@@ -6,35 +6,36 @@ title: 'An example conference paper'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2019-10-01'
+doi: '10.1038/s41467-019-12658-9'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+# publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['journal-article']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: Nature Communications
+publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Prominent theories of consciousness emphasise different aspects of neurobiology, such as the integration and diversity of information processing within the brain. Here, we combine graph theory and dynamic functional connectivity to compare resting-state functional MRI data from awake volunteers, propofol-anaesthetised volunteers, and patients with disorders of consciousness, in order to identify consciousness-specific patterns of brain function. We demonstrate that cortical networks are especially affected by loss of consciousness during temporal states of high integration, exhibiting reduced functional diversity and compromised informational capacity, whereas thalamo-cortical functional disconnections emerge during states of higher segregation. Spatially, posterior regions of the brain’s default mode network exhibit reductions in both functional diversity and integration with the rest of the brain during unconsciousness. These results show that human consciousness relies on spatio-temporal interactions between brain integration and functional diversity, whose breakdown may represent a generalisable biomarker of loss of consciousness, with potential relevance for clinical practice.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We compared fMRI brain dynamics during anaesthesia and in patients with disorders of consciousness to identify consistent signatures of consciousness.
 
 tags:
-  - Large Language Models
+  - fMRI
+  - consciousness
+  - brain dynamics
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,13 +46,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: '' # 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: '' # 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: '' #'https://github.com/HugoBlox/hugo-blox-builder'
+url_video: '' #'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -65,15 +66,15 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
+#  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: '' #example
 ---
 
 {{% callout note %}}
