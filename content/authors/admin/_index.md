@@ -306,15 +306,15 @@ awards:
       National Excellence Registry for academic achievement.
 ---
 
-## About Me
+## About Me: 
 
 I am a computational and cognitive neuroscientist interested in how the brain gives rise to consciousness and flexible cognition. My work combines brain imaging, computational modelling, and complex systems. I integrate imaging modalities across species, drawing on methods from network science and information theory to investigate how the brain's connectivity and dynamics support thought, perception, and awareness. I am also interested in bridging biological and artificial intelligence.
 
-A major focus of my research is understanding how brain networks reconfigure across different states — such as wakefulness, sleep, anesthesia, and disorders of consciousness — and what these changes reveal about the neural mechanisms of conscious experience. 
+A major focus of my research is understanding how brain networks reconfigure across different states — such as wakefulness, sleep, anesthesia, and disorders of consciousness — and what these changes reveal about the neural mechanisms of conscious experience. My background is in philosophy, and I view my work as using experimental methods to answer philosophical questions.
 
-I also regularly devote time to method-benchmarking efforts for the community, to increase reproducibility and credibility of neuroimaging results. Recent efforts include assessment of 700+ data-processing pipelines for trustworthy functional connectomics with fMRI ([paper](https://doi.org/10.1038/s41467-024-48781-5); [interactive tool](https://github.com/andrealuppi/Trustworthy-Functional-Connectomics)) and assessing the translational potential of macaque brain gene expression ([paper](https://doi.org/10.1126/sciadv.ads6967); [repo](https://github.com/netneurolab/luppi-genes-receptors-macaque)).
+I regularly devote time to method-benchmarking efforts for the community, to increase reproducibility and credibility of neuroscientific results. Recent efforts include assessment of 700+ data-processing pipelines for trustworthy functional connectomics with fMRI ([paper](https://doi.org/10.1038/s41467-024-48781-5); [interactive tool](https://github.com/andrealuppi/Trustworthy-Functional-Connectomics)) and assessing the translational potential of macaque brain gene expression ([paper](https://doi.org/10.1126/sciadv.ads6967); [repo](https://github.com/netneurolab/luppi-genes-receptors-macaque)).
 
-Alongside my research, I am passionate about promoting access to higher education (['Ten simple rules for aspiring graduate students'](https://doi.org/10.1371/journal.pcbi.1009276)), promoting interdisciplinary training and research ([list of open resurces for Neuro-AI training](https://github.com/8erberg/NeuroAI_Trainee_Resources)), and [improving the research culture](https://doi.org/10.1038/s41583-025-00946-x) in neuroscience. 
+My work is interdisciplinary and collaborative to the core. Alongside my research, I am passionate about promoting interdisciplinary training and research ([list of open resurces for Neuro-AI training](https://github.com/8erberg/NeuroAI_Trainee_Resources)), [improving the research culture](https://doi.org/10.1038/s41583-025-00946-x) in neuroscience, and promoting access to higher education (['Ten simple rules for aspiring graduate students'](https://doi.org/10.1371/journal.pcbi.1009276)). 
 
-Collaboration and interdisciplinarity are pillars of my work, so if you share any of the interests above, get in touch!
+If you share any of the interests above, get in touch!
 
