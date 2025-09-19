@@ -1,5 +1,5 @@
 ---
-title: Pandas
+title: Macaque brain genes
 date: 2025-02-01
 external_link: https://github.com/netneurolab/luppi-genes-receptors-macaque
 tags:
