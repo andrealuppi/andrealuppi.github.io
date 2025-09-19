@@ -47,7 +47,7 @@ sections:
     content:
       title: Featured Publications
       text: |-
-         Here are some of my key publications. For a full list, please check out my [Google Scholar](https://scholar.google.com/citations?user=oHHFZY4AAAAJ&hl=en)
+         Here are some of my key publications. For a full list, please check out my Google Scholar page.
       filters:
         folders:
           - publication

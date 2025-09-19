@@ -1,11 +1,12 @@
 ---
-title: 'An example conference paper'
+title: 'Consciousness-specific dynamic interactions of brain integration and functional diversity'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - _et al._
 
 # Author notes (optional)
 author_notes:
@@ -24,7 +25,7 @@ doi: '10.1038/s41467-019-12658-9'
 publication_types: ['journal-article']
 
 # Publication name and optional abbreviated publication name.
-publication: Nature Communications
+publication: _Nature Communications_
 publication_short: ''
 
 abstract: Prominent theories of consciousness emphasise different aspects of neurobiology, such as the integration and diversity of information processing within the brain. Here, we combine graph theory and dynamic functional connectivity to compare resting-state functional MRI data from awake volunteers, propofol-anaesthetised volunteers, and patients with disorders of consciousness, in order to identify consciousness-specific patterns of brain function. We demonstrate that cortical networks are especially affected by loss of consciousness during temporal states of high integration, exhibiting reduced functional diversity and compromised informational capacity, whereas thalamo-cortical functional disconnections emerge during states of higher segregation. Spatially, posterior regions of the brain’s default mode network exhibit reductions in both functional diversity and integration with the rest of the brain during unconsciousness. These results show that human consciousness relies on spatio-temporal interactions between brain integration and functional diversity, whose breakdown may represent a generalisable biomarker of loss of consciousness, with potential relevance for clinical practice.
@@ -33,9 +34,9 @@ abstract: Prominent theories of consciousness emphasise different aspects of neu
 summary: We compared fMRI brain dynamics during anaesthesia and in patients with disorders of consciousness to identify consistent signatures of consciousness.
 
 tags:
-  - fMRI
   - consciousness
   - brain dynamics
+  - fMRI
 
 # Display this page in the Featured widget?
 featured: true
