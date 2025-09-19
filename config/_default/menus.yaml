@@ -20,7 +20,7 @@ main:
     url: skills/
     weight: 25
   - name: Software
-    url: projects/
+    url: software/
     weight: 27
   #- name: Teaching
   #  url: teaching/
