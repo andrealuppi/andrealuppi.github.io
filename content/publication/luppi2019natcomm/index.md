@@ -6,14 +6,23 @@ title: 'Consciousness-specific dynamic interactions of brain integration and fun
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - _et al._
+  - Michael M. Craig
+  - Ioannis Pappas
+  - Paola Finoia
+  - Guy B. Williams
+  - Judith Allanson
+  - John D. Pickard
+  - Adrian M. Owen
+  - Lorina Naci
+  - David K. Menon
+  - Emmanuel A. Stamatakis 
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2019-10-01'
+date: '2019-10-10'
 doi: '10.1038/s41467-019-12658-9'
 
 # Schedule page publish date (NOT publication's date).
@@ -22,7 +31,7 @@ doi: '10.1038/s41467-019-12658-9'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['journal-article']
+# publication_types: ['journal-article']
 
 # Publication name and optional abbreviated publication name.
 publication: _Nature Communications_
@@ -79,7 +88,7 @@ projects: []
 slides: '' #example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -87,4 +96,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
