@@ -1,29 +1,44 @@
 ---
-title: 'Consciousness-specific dynamic interactions of brain integration and functional diversity'
+title: 'In vivo mapping of pharmacologically induced functional reorganization onto the human brain’s neurotransmitter landscape'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Michael M. Craig
-  - Ioannis Pappas
-  - Paola Finoia
-  - Guy B. Williams
-  - Judith Allanson
-  - John D. Pickard
-  - Adrian M. Owen
-  - Lorina Naci
-  - David K. Menon
-  - Emmanuel A. Stamatakis 
+  - Justine Y. Hansen  
+  - Ram Adapa  
+  - Robin L. Carhart-Harris  
+  - Leor Roseman  
+  - Christopher Timmermann  
+  - Daniel Golkowski  
+  - Andreas Ranft  
+  - Rüdiger Ilg  
+  - Denis Jordan  
+  - Vincent Bonhomme  
+  - Audrey Vanhaudenhuyse  
+  - Athena Demertzi  
+  - Oceane Jaquet  
+  - Mohamed Ali Bahri  
+  - Naji L. N. Alnagger  
+  - Paolo Cardone  
+  - Alexander R. D. Peattie  
+  - Anne E. Manktelow  
+  - Draulio B. de Araujo  
+  - Stefano L. Sensi  
+  - Adrian M. Owen  
+  - Lorina Naci  
+  - David K. Menon  
+  - Bratislav Misic  
+  - Emmanuel A. Stamatakis
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2019-10-10'
-doi: '10.1038/s41467-019-12658-9'
+date: '2023-06-14'
+doi: '10.1126/sciadv.adf8332'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -34,17 +49,19 @@ doi: '10.1038/s41467-019-12658-9'
 # publication_types: ['journal-article']
 
 # Publication name and optional abbreviated publication name.
-publication: _Nature Communications_
+publication: _Science_ Advances
 publication_short: ''
 
-abstract: Prominent theories of consciousness emphasise different aspects of neurobiology, such as the integration and diversity of information processing within the brain. Here, we combine graph theory and dynamic functional connectivity to compare resting-state functional MRI data from awake volunteers, propofol-anaesthetised volunteers, and patients with disorders of consciousness, in order to identify consciousness-specific patterns of brain function. We demonstrate that cortical networks are especially affected by loss of consciousness during temporal states of high integration, exhibiting reduced functional diversity and compromised informational capacity, whereas thalamo-cortical functional disconnections emerge during states of higher segregation. Spatially, posterior regions of the brain’s default mode network exhibit reductions in both functional diversity and integration with the rest of the brain during unconsciousness. These results show that human consciousness relies on spatio-temporal interactions between brain integration and functional diversity, whose breakdown may represent a generalisable biomarker of loss of consciousness, with potential relevance for clinical practice.
+abstract: To understand how pharmacological interventions can exert their powerful effects on brain function, we need tounderstand how they engage the brain’s rich neurotransmitter landscape. Here, we bridge microscale molecularchemoarchitecture and pharmacologically induced macroscale functional reorganization, by relating the re-gional distribution of 19 neurotransmitter receptors and transporters obtained from positron emission tomog-raphy, and the regional changes in functional magnetic resonance imaging connectivity induced by 10 differentmind-altering drugs: propofol, sevoflurane, ketamine, lysergic acid diethylamide (LSD), psilocybin, N,N-Dime-thyltryptamine (DMT), ayahuasca, 3,4-methylenedioxymethamphetamine (MDMA), modafinil, and methylphe-nidate. Our results reveal a many-to-many mapping between psychoactive drugs’ effects on brain function andmultiple neurotransmitter systems. The effects of both anesthetics and psychedelics on brain function are or-ganized along hierarchical gradients of brain structure and function. Last, we show that regional co-suscepti-bility to pharmacological interventions recapitulates co-susceptibility to disorder-induced structural alterations.Collectively, these results highlight rich statistical patterns relating molecular chemoarchitecture and drug-induced reorganization of the brain’s functional architecture.
 
 # Summary. An optional shortened abstract.
-summary: We compared fMRI brain dynamics during anaesthesia and in patients with disorders of consciousness to identify consistent signatures of consciousness.
+summary: We map changes in brain function induced by 10 anaesthetics, psychedelics,a nd cognitive enhancers onto the comprehensive database of human neurotransmitter receptors from Positron Emission Tomography.
+
 
 tags:
   - consciousness
-  - brain dynamics
+  - receptors
+  - pharmacology
   - fMRI
 
 # Display this page in the Featured widget?
@@ -55,8 +72,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://andrealuppi.github.io/publication/luppi2019natcomm/luppi2019natcomm.pdf'
-url_cite: 'https://andrealuppi.github.io/publication/luppi2019natcomm/cite.bib'
+url_pdf: 'PDFs/luppi2023sciadv.pdf'
+url_cite: 'https://andrealuppi.github.io/publication/luppi2023sciadv/cite.bib'
 url_code: '' # 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '' # 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''

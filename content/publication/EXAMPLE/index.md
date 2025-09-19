@@ -55,7 +55,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://andrealuppi.github.io/publication/luppi2019natcomm/luppi2019natcomm.pdf'
+url_pdf: 'PDFs/luppi2022natneurosci.pdf'
 url_cite: 'https://andrealuppi.github.io/publication/luppi2019natcomm/cite.bib'
 url_code: '' # 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '' # 'https://github.com/HugoBlox/hugo-blox-builder'
