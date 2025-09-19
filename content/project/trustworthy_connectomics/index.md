@@ -6,7 +6,6 @@ tags:
   - fMRI
   - network neuroscience
   - reproducibility
-summary: We developed a battery of criteria for trustworthy functional connectomics, and use it to benchmark >750 data-processing pipelines to construct a functional connectivity network from fMRI data.
-Check out also >200 different measures of pairwise connectivity for the brain [repo](https://github.com/netneurolab/liu_fc-pyspi) [Nature Methods paper](https://doi.org/10.1038/s41592-025-02704-4)
+summary: We developed a battery of criteria for trustworthy functional connectomics, and use it to benchmark >750 data-processing pipelines to construct a functional connectivity network from fMRI data. Check out also >200 different measures of pairwise connectivity for the brain [repo](https://github.com/netneurolab/liu_fc-pyspi) [Nature Methods paper](https://doi.org/10.1038/s41592-025-02704-4)
 ---
 <!--more-->
