@@ -184,16 +184,6 @@ awards:
     awarder: Canadian Association for Neuroscience
     summary: |
       Annual prize for research excellence, for my publication in _Nature Biomedical Engineering_.
-  - title: 'Wellcome Early-Career Fellowship'
-    date: '2024-04-20'
-    awarder: Wellcome Trust
-    summary: |
-      Secured competitive funding for proposed research (GBP ~600,000).
-  - title: 'Junior Research Fellowship'
-    date: '2024-01-17'
-    awarder: St John's College Cambridge
-    summary: |
-      Elected Fellow of St John's College following an open competition in all disciplines.
   - title: 'Prize Laureate in Formal and Theoretical Sciences'
     date: '2024-11-11'
     awarder: Universal Scientific and Education Research Network (USERN)
@@ -209,6 +199,16 @@ awards:
     awarder: Federation of European Neuroscience Societies 
     summary: |
       Runner-up for the 2022-2024 Europe-wide PhD Thesis prize in neuroscience.
+  - title: 'Wellcome Early-Career Fellowship'
+    date: '2024-01-15'
+    awarder: Wellcome Trust
+    summary: |
+      Secured competitive funding for proposed research (GBP ~600,000).
+  - title: 'Junior Research Fellowship'
+    date: '2024-01-17'
+    awarder: St John's College Cambridge
+    summary: |
+      Elected Fellow of St John's College following an open competition in all disciplines.
   - title: 'Banting Postdoctoral Fellowship'
     date: '2023-04-10'
     awarder: Government of Canada 
