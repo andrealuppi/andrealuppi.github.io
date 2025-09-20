@@ -1,29 +1,26 @@
 ---
-title: 'Metastability demystified — the foundational past, the pragmatic present and the promising future'
+title: 'Benchmarking methods for mapping functional connectivity in the brain'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Fran Hancock*
-  - Fernando E. Rosas*
+  - Zhen-Qi Liu
   - admin
-  - Mengsen Zhang
-  - Pedro A. M. Mediano
-  - Joana Cabral
-  - Gustavo Deco
-  - Morten L. Kringelbach
-  - Michael Breakspear
-  - J. A. Scott Kelso
-  - Federico E. Turkheimer
+  - Justine Y. Hansen
+  - Ye Ella Tian
+  - Andrew Zalesky
+  - B. T. Thomas Yeo
+  - Ben D. Fulcher
+  - Bratislav Misic
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2024-12-11'
-doi: 'https://doi.org/10.1038/s41583-024-00883-1'
+date: '2025-06-06'
+doi: '10.1038/s41592-025-02704-4'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -37,13 +34,15 @@ doi: 'https://doi.org/10.1038/s41583-024-00883-1'
 publication: _Nature Communications_
 publication_short: ''
 
-abstract: Healthy brain function depends on balancing stable integration between brain areas for effective coordinated functioning, with coexisting segregation that allows subsystems to express their functional specialization. Metastability, a concept from the dynamical systems literature, has been proposed as a key signature that characterizes this balance. Building on this principle, the neuroscience literature has leveraged the phenomenon of metastability to investigate various aspects of brain function in health and disease. However, this body of work often uses the notion of metastability heuristically, and sometimes inaccurately, making it difficult to navigate the vast literature, interpret findings and foster further development of theoretical and experimental methodologies. Here, we provide a comprehensive review of metastability and its applications in neuroscience, covering its scientific and historical foundations and the practical measures used to assess it in empirical data. We also provide a critical analysis of recent theoretical developments, clarifying common misconceptions and paving the road for future developments.
+abstract: The networked architecture of the brain promotes synchrony among neuronal populations. These communication patterns can be mapped using functional imaging, yielding functional connectivity (FC) networks. While most studies use Pearson’s correlations by default, numerous pairwise interaction statistics exist in the scientific literature. How does the organization of the FC matrix vary with the choice of pairwise statistic? Here we use a library of 239 pairwise statistics to benchmark canonical features of FC networks, including hub mapping, weight–distance trade-offs, structure–function coupling, correspondence with other neurophysiological networks, individual fingerprinting and brain–behavior prediction. We find substantial quantitative and qualitative variation across FC methods. Measures such as covariance, precision and distance display multiple desirable properties, including correspondence with structural connectivity and the capacity to differentiate individuals and predict individual differences in behavior. Our report highlights how FC mapping can be optimized by tailoring pairwise statistics to specific neurophysiological mechanisms and research questions.
+
 
 # Summary. An optional shortened abstract.
-summary: We provide a comprehensive review of metastability and its applications in neuroscience.
+summary: We compare of >200 measures of pairwise interaction for fMRI functional connectivity.
 
 tags:
-  - brain dynamics
+  - benchmarking
+  - network science
   - fMRI
 
 # Display this page in the Featured widget?
@@ -54,9 +53,9 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'PDFs/hancock2024natrevneurosci.pdf'
-url_cite: 'https://andrealuppi.github.io/publication/hancock2024natrevneurosci/cite.bib'
-url_code: '' # 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'PDFs/liu2025natmethods.pdf'
+url_cite: 'https://andrealuppi.github.io/publication/liu2025natmethods/cite.bib'
+url_code: 'https://github.com/netneurolab/liu_fc-pyspi'
 url_dataset: '' # 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
 url_project: ''

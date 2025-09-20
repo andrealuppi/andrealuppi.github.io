@@ -41,7 +41,7 @@ abstract: The human brain is characterized by idiosyncratic patterns of spontane
 
 
 # Summary. An optional shortened abstract.
-summary: Anaesthesia makes human brains less distinguishable from one another, and less distinguishable from the brains of monkeys. We also introduce 'cognitive matching' with NeuroSynth to assess consciousness.
+summary: Anaesthesia makes human brains less distinguishable from one another, and less distinguishable from the brains of monkeys. We also introduce 'cognitive matching' with NeuroSynth.
 
 tags:
   - consciousness
