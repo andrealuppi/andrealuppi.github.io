@@ -48,11 +48,11 @@ sections:
       title: Featured Publications
       text: |-
          Here are some of my key publications. For a full list, please check out my Google Scholar page.
+      count: 8
       filters:
         folders:
           - publication
         featured_only: true
-        count: 8
     design:
       view: article-grid
       columns: 3
