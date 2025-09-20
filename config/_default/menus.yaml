@@ -26,7 +26,8 @@ main:
   #  url: teaching/
   #  weight: 40
   - name: Publications
-    url: /#papers/
+    url: publication/
+  #  url: /#papers/
     weight: 40
   - name: Awards
     url: awards/
