@@ -34,7 +34,7 @@ doi: 'https://doi.org/10.1038/s41583-024-00883-1'
 # publication_types: ['journal-article']
 
 # Publication name and optional abbreviated publication name.
-publication: _Nature Communications_
+publication: _Nature Reviews Neuroscience_
 publication_short: ''
 
 abstract: Healthy brain function depends on balancing stable integration between brain areas for effective coordinated functioning, with coexisting segregation that allows subsystems to express their functional specialization. Metastability, a concept from the dynamical systems literature, has been proposed as a key signature that characterizes this balance. Building on this principle, the neuroscience literature has leveraged the phenomenon of metastability to investigate various aspects of brain function in health and disease. However, this body of work often uses the notion of metastability heuristically, and sometimes inaccurately, making it difficult to navigate the vast literature, interpret findings and foster further development of theoretical and experimental methodologies. Here, we provide a comprehensive review of metastability and its applications in neuroscience, covering its scientific and historical foundations and the practical measures used to assess it in empirical data. We also provide a critical analysis of recent theoretical developments, clarifying common misconceptions and paving the road for future developments.

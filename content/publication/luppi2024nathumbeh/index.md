@@ -31,7 +31,7 @@ abstract: The combination of general anaesthesia and neuroimaging holds unique p
 
 
 # Summary. An optional shortened abstract.
-summary: I outline combining anaesthesia and neuroimaging holds unique potential for catalysing integrative and translational discovery about consciousness and the brain, across scales and across species.
+summary: I outline how combining anaesthesia and neuroimaging holds unique potential for catalysing integrative and translational discovery about consciousness and the brain, across scales and across species.
 
 tags:
   - consciousness
