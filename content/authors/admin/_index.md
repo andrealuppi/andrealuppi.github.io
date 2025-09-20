@@ -308,7 +308,7 @@ awards:
 
 ## About Me: Complex Systems Neuroscience
 
-I am a computational and cognitive neuroscientist interested in how the brain gives rise to consciousness and flexible cognition. I work in 'complex systems neuroscience': I integrate imaging modalities and computational modelling across species, drawing on network science and information theory to understand how the brain's connectivity and dynamics support thought, perception, and awareness. My background is in philosophy, and I view my work as using empirical and computational methods to answer big-picture philosophical questions.
+I am a computational and cognitive neuroscientist interested in how the brain gives rise to consciousness and flexible cognition. I work in _complex systems neuroscience_: I integrate imaging modalities and computational modelling across species, drawing on network science and information theory to understand how the brain's connectivity and dynamics support thought, perception, and awareness. My background is in philosophy, and I view my work as using experimental methods to answer big-picture philosophical questions.
 
 A major focus of my research is understanding how brain networks reconfigure across different states — such as wakefulness, sleep, anesthesia, and disorders of consciousness — and what these changes reveal about the neural mechanisms of information processing and conscious experience. I am also interested in bridging biological and artificial intelligence.
 
