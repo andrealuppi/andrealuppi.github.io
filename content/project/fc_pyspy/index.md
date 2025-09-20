@@ -6,6 +6,8 @@ tags:
   - benchmarking
   - fMRI
   - network neuroscience
+  - synergy and redundancy
+
 summary: Led by Zhen-Qi Liu, comparison of >200 measures of pairwise interaction for fMRI functional connectivity. 
 # [Nature Methods paper](https://doi.org/10.1038/s41592-025-02704-4)
 ---

@@ -44,6 +44,8 @@ tags:
   - benchmarking
   - network science
   - fMRI
+  - synergy and redundancy
+
 
 # Display this page in the Featured widget?
 featured: false

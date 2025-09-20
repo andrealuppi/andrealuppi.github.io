@@ -39,12 +39,14 @@ abstract: Disentangling how cognitive functions emerge from the interplay of bra
 summary: We review how fundamental building blocks of brain function can be identified through the lenses of space, time, and information. Each lens reveals similarities and differences across anaesthesia, coma, and psychedelics, in humans and across different species.
 
 tags:
+  - review
   - consciousness
   - brain dynamics
   - network science
   - cross-species translation
   - fMRI
-  - review
+  - synergy and redundancy
+
 
 
 # Display this page in the Featured widget?
