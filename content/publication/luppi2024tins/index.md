@@ -1,17 +1,15 @@
 ---
-title: 'Systematic evaluation of fMRI data-processing pipelines for consistent functional connectomics'
+title: 'Unravelling consciousness and brain function through the lens of time, space, and information'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Helena M. Gellersen  
-  - Zhen-Qi Liu  
-  - Alexander R. D. Peattie  
-  - Anne E. Manktelow  
+  - Fernando E. Rosas  
+  - Pedro A. M. Mediano  
+  - Athena Demertzi  
   - David K. Menon  
-  - Stavros I. Dimitriadis  
   - Emmanuel A. Stamatakis  
 
 # Author notes (optional)
@@ -19,8 +17,8 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2024-06-04'
-doi: 'https://doi.org/10.1038/s41467-024-48781-5'
+date: '2024-07-01'
+doi: '10.1016/j.tins.2024.05.007'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -31,19 +29,21 @@ doi: 'https://doi.org/10.1038/s41467-024-48781-5'
 # publication_types: ['journal-article']
 
 # Publication name and optional abbreviated publication name.
-publication: _Nature Communications_
+publication: _Trends in Neurosciences_
 publication_short: ''
 
-abstract: Functional interactions between brain regions can be viewed as a network, enabling neuroscientists to investigate brain function through network science. Here, we systematically evaluate 768 data-processing pipelines for network reconstruction from resting-state functional MRI, evaluating the effect of brain parcellation, connectivity definition, and global signal regression. Our criteria seek pipelines that minimise motion confounds and spurious test-retest discrepancies of network topology, while being sensitive to both inter-subject differences and experimental effects of interest. We reveal vast and systematic variability across pipelines’ suitability for functional connectomics. Inappropriate choice of data-processing pipeline can produce results that are not only misleading, but systematically so, with the majority of pipelines failing at least one criterion. However, a set of optimal pipelines consistently satisfy all criteria across different datasets, spanning minutes, weeks, and months. We provide a full breakdown of each pipeline’s performance across criteria and datasets, to inform future best practices in functional connectomics.
+abstract: Disentangling how cognitive functions emerge from the interplay of brain dynamics and network architecture is among the major challenges that neuroscientists face. Pharmacological and pathological perturbations of consciousness provide a lens to investigate these complex challenges. Here, we review how recent advances about consciousness and the brain’s functional organisation have been driven by a common denominator: decomposing brain function into fundamental constituents of time, space, and information. Whereas unconsciousness increases structure–function coupling across scales, psychedelics may decouple brain function from structure. Convergent effects also emerge: anaesthetics, psychedelics, and disorders of consciousness can exhibit similar reconfigurations of the brain’s unimodal–transmodal functional axis. Decomposition approaches reveal the potential to translate discoveries across species, with computational modelling providing a path towards mechanistic integration.
 
 
 # Summary. An optional shortened abstract.
-summary: We benchmarked >750 data-processing pipelines to construct a functional connectivity network from fMRI data.
+summary: We review how fundamental building blocks of brain function can be identified through the lenses of space, time, and information. Each lens reveals similarities and differences across anaesthesia, coma, and psychedelics, in humans and across different species.
 
 tags:
-  - benchmarking
-  - fMRI
+  - consciousness
+  - brain dynamics
   - network science
+  - cross-species translation
+  - fMRI
 
 # Display this page in the Featured widget?
 featured: true
@@ -53,9 +53,9 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'PDFs/luppi2024b_natcomm.pdf'
-url_cite: 'https://andrealuppi.github.io/publication/luppi2024b_natcomm/cite.bib'
-url_code: 'https://github.com/andrealuppi/Trustworthy-Functional-Connectomics'
+url_pdf: 'PDFs/luppi2024tins.pdf'
+url_cite: 'https://andrealuppi.github.io/publication/luppi2024tins/cite.bib'
+url_code: '' # 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '' # 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
 url_project: ''

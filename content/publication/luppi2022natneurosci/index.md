@@ -45,7 +45,9 @@ summary: We show that the human brain relies on synergistic interactions between
 tags:
   - synergy and redundancy
   - evolution
+  - transcriptomics
   - fMRI
+  - network science
 
 # Display this page in the Featured widget?
 featured: true

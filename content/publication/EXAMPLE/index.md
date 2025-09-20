@@ -1,29 +1,29 @@
 ---
-title: 'Consciousness-specific dynamic interactions of brain integration and functional diversity'
+title: 'Metastability demystified — the foundational past, the pragmatic present and the promising future'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Fran Hancock*
+  - Fernando E. Rosas*
   - admin
-  - Michael M. Craig
-  - Ioannis Pappas
-  - Paola Finoia
-  - Guy B. Williams
-  - Judith Allanson
-  - John D. Pickard
-  - Adrian M. Owen
-  - Lorina Naci
-  - David K. Menon
-  - Emmanuel A. Stamatakis 
+  - Mengsen Zhang
+  - Pedro A. M. Mediano
+  - Joana Cabral
+  - Gustavo Deco
+  - Morten L. Kringelbach
+  - Michael Breakspear
+  - J. A. Scott Kelso
+  - Federico E. Turkheimer
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2019-10-10'
-doi: '10.1038/s41467-019-12658-9'
+date: '2024-12-11'
+doi: 'https://doi.org/10.1038/s41583-024-00883-1'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -37,13 +37,12 @@ doi: '10.1038/s41467-019-12658-9'
 publication: _Nature Communications_
 publication_short: ''
 
-abstract: Prominent theories of consciousness emphasise different aspects of neurobiology, such as the integration and diversity of information processing within the brain. Here, we combine graph theory and dynamic functional connectivity to compare resting-state functional MRI data from awake volunteers, propofol-anaesthetised volunteers, and patients with disorders of consciousness, in order to identify consciousness-specific patterns of brain function. We demonstrate that cortical networks are especially affected by loss of consciousness during temporal states of high integration, exhibiting reduced functional diversity and compromised informational capacity, whereas thalamo-cortical functional disconnections emerge during states of higher segregation. Spatially, posterior regions of the brain’s default mode network exhibit reductions in both functional diversity and integration with the rest of the brain during unconsciousness. These results show that human consciousness relies on spatio-temporal interactions between brain integration and functional diversity, whose breakdown may represent a generalisable biomarker of loss of consciousness, with potential relevance for clinical practice.
+abstract: Healthy brain function depends on balancing stable integration between brain areas for effective coordinated functioning, with coexisting segregation that allows subsystems to express their functional specialization. Metastability, a concept from the dynamical systems literature, has been proposed as a key signature that characterizes this balance. Building on this principle, the neuroscience literature has leveraged the phenomenon of metastability to investigate various aspects of brain function in health and disease. However, this body of work often uses the notion of metastability heuristically, and sometimes inaccurately, making it difficult to navigate the vast literature, interpret findings and foster further development of theoretical and experimental methodologies. Here, we provide a comprehensive review of metastability and its applications in neuroscience, covering its scientific and historical foundations and the practical measures used to assess it in empirical data. We also provide a critical analysis of recent theoretical developments, clarifying common misconceptions and paving the road for future developments.
 
 # Summary. An optional shortened abstract.
-summary: We compared fMRI brain dynamics during anaesthesia and in patients with disorders of consciousness to identify consistent signatures of consciousness.
+summary: We provide a comprehensive review of metastability and its applications in neuroscience.
 
 tags:
-  - consciousness
   - brain dynamics
   - fMRI
 
@@ -55,8 +54,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'PDFs/luppi2022natneurosci.pdf'
-url_cite: 'https://andrealuppi.github.io/publication/luppi2019natcomm/cite.bib'
+url_pdf: 'PDFs/hancock2024natrevneurosci.pdf'
+url_cite: 'https://andrealuppi.github.io/publication/hancock2024natrevneurosci/cite.bib'
 url_code: '' # 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '' # 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''

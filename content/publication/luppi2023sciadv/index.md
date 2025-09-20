@@ -49,7 +49,7 @@ doi: '10.1126/sciadv.adf8332'
 # publication_types: ['journal-article']
 
 # Publication name and optional abbreviated publication name.
-publication: _Science_ Advances
+publication: _Science Advances_
 publication_short: ''
 
 abstract: To understand how pharmacological interventions can exert their powerful effects on brain function, we need tounderstand how they engage the brain’s rich neurotransmitter landscape. Here, we bridge microscale molecularchemoarchitecture and pharmacologically induced macroscale functional reorganization, by relating the regional distribution of 19 neurotransmitter receptors and transporters obtained from positron emission tomography, and the regional changes in functional magnetic resonance imaging connectivity induced by 10 different mind-altering drugs; propofol, sevoflurane, ketamine, lysergic acid diethylamide (LSD), psilocybin, N,N-Dime-thyltryptamine (DMT), ayahuasca, 3,4-methylenedioxymethamphetamine (MDMA), modafinil, and methylphe-nidate. Our results reveal a many-to-many mapping between psychoactive drugs’ effects on brain function andmultiple neurotransmitter systems. The effects of both anesthetics and psychedelics on brain function are organized along hierarchical gradients of brain structure and function. Last, we show that regional co-susceptibility to pharmacological interventions recapitulates co-susceptibility to disorder-induced structural alterations.Collectively, these results highlight rich statistical patterns relating molecular chemoarchitecture and drug-induced reorganization of the brain’s functional architecture.

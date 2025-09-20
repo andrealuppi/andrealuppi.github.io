@@ -45,6 +45,7 @@ summary: We compared fMRI brain dynamics during anaesthesia and in patients with
 tags:
   - consciousness
   - brain dynamics
+  - network science
   - fMRI
 
 # Display this page in the Featured widget?
