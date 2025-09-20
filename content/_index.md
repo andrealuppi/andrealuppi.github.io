@@ -46,8 +46,8 @@ sections:
     id: papers
     content:
       title: Featured Publications
-      text: |-
-         Here are some of my key publications. For a full list, please check out my Google Scholar page.
+      # text: |-
+      #    Here are some of my key publications. For a full list, please check out my Google Scholar page.
       count: 8
       filters:
         folders:
@@ -55,17 +55,19 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 3
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
+      columns: 4
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: |-
+  #        Here are some of my recent publications. For a full and up-to-date list, please check out my Google Scholar page.
+      
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
   # - block: collection
   #   id: talks
   #   content:
