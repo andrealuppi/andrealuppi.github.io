@@ -13,6 +13,7 @@ sections:
     content:
       title: Software and Resources
       text: Here are a selection of projects and tools for the community that I have developed over the years.
+      count: 6
       filters:
         folders:
           - project
