@@ -176,6 +176,11 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below. url possible, also icon
 awards:
+  - title: Rising Star in Neuroscience
+    date: '2025-11-15'
+    awarder: The Transmitter
+    summary: |
+      Named one of the 25 neuroscientists 'who stand to shape the field for years to come'.
   - title: Credibility in Neuroscience Prize
     date: '2025-04-15'
     awarder: British Neuroscience Association
