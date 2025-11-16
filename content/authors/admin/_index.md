@@ -37,6 +37,8 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/loopyluppi
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/loopyluppi.bsky.social 
   - icon: brands/github
     url: https://github.com/andrealuppi
   - icon: brands/linkedin
