@@ -181,6 +181,7 @@ awards:
     awarder: The Transmitter
     summary: |
       Named one of the 25 neuroscientists 'who stand to shape the field for years to come'.
+    url: https://www.thetransmitter.org/early-career-researchers/rising-stars-neuroscience-2025/
   - title: Credibility in Neuroscience Prize
     date: '2025-04-15'
     awarder: British Neuroscience Association
