@@ -217,6 +217,7 @@ awards:
     awarder: St John's College Cambridge
     summary: |
       Elected Fellow of St John's College following an open competition in all disciplines.
+    url: https://www.joh.cam.ac.uk/research/academics/fellows/dr-andrea-luppi  
   - title: 'Banting Postdoctoral Fellowship'
     date: '2023-04-10'
     awarder: Government of Canada 
