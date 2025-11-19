@@ -19,7 +19,7 @@ author_notes:
   - 'Equal contribution'
 
 date: '2025-09-22'
-doi: 'https://doi.org/0.1073/pnas.2423297122'
+doi: '10.1073/pnas.2423297122'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
