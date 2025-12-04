@@ -52,7 +52,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'PDFs/mediano2025pnas.pdf'
+url_pdf: 'https://andrealuppi.github.io/publication/mediano2025pnas.pdf'
 url_cite: 'https://andrealuppi.github.io/publication/mediano2025pnas/cite.bib'
 url_code: 'https://github.com/Imperial-MIND-lab/integrated-info-decomp' # ''
 url_dataset: '' # ''

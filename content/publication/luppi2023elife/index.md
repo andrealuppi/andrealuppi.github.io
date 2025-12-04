@@ -60,7 +60,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'PDFs/luppi2023elife.pdf'
+url_pdf: 'https://andrealuppi.github.io/publication/luppi2023elife.pdf'
 url_cite: 'https://andrealuppi.github.io/publication/luppi2023elife/cite.bib'
 url_code: '' # 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '' # 'https://github.com/HugoBlox/hugo-blox-builder'

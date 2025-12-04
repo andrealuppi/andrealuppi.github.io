@@ -55,7 +55,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'PDFs/luppi2024natbiomedeng.pdf'
+url_pdf: 'https://andrealuppi.github.io/publication/luppi2024natbiomedeng.pdf'
 url_cite: 'https://andrealuppi.github.io/publication/luppi2024natbiomedeng/cite.bib'
 url_code: 'https://github.com/netneurolab/luppi-neurosynth-control'
 url_dataset: '' # 'https://github.com/HugoBlox/hugo-blox-builder'

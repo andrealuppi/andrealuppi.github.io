@@ -56,7 +56,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'PDFs/luppi2025nathumbeh.pdf'
+url_pdf: 'https://andrealuppi.github.io/publication/luppi2025nathumbeh.pdf'
 url_cite: 'https://andrealuppi.github.io/publication/luppi2025nathumbeh/cite.bib'
 url_code: 'https://github.com/netneurolab/luppi-cognitive-matching'
 url_dataset: '' # 'https://github.com/HugoBlox/hugo-blox-builder'

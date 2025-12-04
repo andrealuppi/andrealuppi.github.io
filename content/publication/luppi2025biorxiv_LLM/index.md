@@ -49,7 +49,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://andrealuppi.github.io/publication/PDFs/luppi2025biorxiv_LLM.pdf'
+url_pdf: 'https://andrealuppi.github.io/publication/luppi2025biorxiv_LLM.pdf'
 url_cite: 'https://andrealuppi.github.io/publication/luppi2025biorxiv_LLM/cite.bib'
 url_code: 'https://github.com/Hana-Ali/neuroLLM'
 url_dataset: '' # 'https://github.com/HugoBlox/hugo-blox-builder'

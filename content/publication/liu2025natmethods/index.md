@@ -55,7 +55,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'PDFs/liu2025natmethods.pdf'
+url_pdf: 'https://andrealuppi.github.io/publication/liu2025natmethods.pdf'
 url_cite: 'https://andrealuppi.github.io/publication/liu2025natmethods/cite.bib'
 url_code: 'https://github.com/netneurolab/liu_fc-pyspi'
 url_dataset: '' # 'https://github.com/HugoBlox/hugo-blox-builder'
