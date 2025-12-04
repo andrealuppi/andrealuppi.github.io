@@ -31,7 +31,7 @@ doi: '10.1038/s41592-025-02704-4'
 # publication_types: ['journal-article']
 
 # Publication name and optional abbreviated publication name.
-publication: _Nature Communications_
+publication: _Nature Methods_
 publication_short: ''
 
 abstract: The networked architecture of the brain promotes synchrony among neuronal populations. These communication patterns can be mapped using functional imaging, yielding functional connectivity (FC) networks. While most studies use Pearson’s correlations by default, numerous pairwise interaction statistics exist in the scientific literature. How does the organization of the FC matrix vary with the choice of pairwise statistic? Here we use a library of 239 pairwise statistics to benchmark canonical features of FC networks, including hub mapping, weight–distance trade-offs, structure–function coupling, correspondence with other neurophysiological networks, individual fingerprinting and brain–behavior prediction. We find substantial quantitative and qualitative variation across FC methods. Measures such as covariance, precision and distance display multiple desirable properties, including correspondence with structural connectivity and the capacity to differentiate individuals and predict individual differences in behavior. Our report highlights how FC mapping can be optimized by tailoring pairwise statistics to specific neurophysiological mechanisms and research questions.

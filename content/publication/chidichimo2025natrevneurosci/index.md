@@ -49,7 +49,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'PDFs/chidichimo2025natrevneurosci.pdf'
+url_pdf: 'https://andrealuppi.github.io/publication/chidichimo2025natrevneurosci.pdf'
 url_cite: 'https://andrealuppi.github.io/publication/chidichimo2025natrevneurosci/cite.bib'
 url_code: '' # 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '' # 'https://github.com/HugoBlox/hugo-blox-builder'
