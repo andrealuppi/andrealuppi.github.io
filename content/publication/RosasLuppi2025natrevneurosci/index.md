@@ -6,7 +6,7 @@ title: 'Top-down and bottom-up neuroscience: overcoming the clash of research cu
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Fernando E. Rosas*
-  - admin*
+  - admin *
   - Pedro A. M. Mediano
   - Morten L. Kringelbach
   - Luiz Pessoa
