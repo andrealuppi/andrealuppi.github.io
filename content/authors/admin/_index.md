@@ -176,6 +176,16 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below. url possible, also icon
 awards:
+  - title: Top 1% of Life Science preprints
+    date: '2026-06-24'
+    awarder: QED Science
+    summary: |
+      Preprint on profiling anaesthetised neural dynamics across species selected as Top 1% of science preprints by QED Science.
+  - title: Brain Star Award
+    date: '2026-05-15'
+    awarder: Canadian Association for Neuroscience
+    summary: |
+      Annual prize for research excellence, for my _Science Advances_ paper about benchmarking macaque gene expression.
   - title: Rising Star in Neuroscience
     date: '2025-11-15'
     awarder: The Transmitter
