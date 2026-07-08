@@ -176,11 +176,18 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below. url possible, also icon
 awards:
+  - title: Whole Brain Architecture Initiative Award
+    date: '2026-07-01'
+    awarder: Whole Brain Architecture Initiative
+    summary: |
+      Award for promising work in brain-inspired AI, for using information theory and network science to reveal the fundamental principles of human         brain architecture.
+    url: https://wba-initiative.org/en/wbaiia_awardees/
   - title: Top 1% of Life Science preprints
     date: '2026-06-24'
     awarder: QED Science
     summary: |
       Preprint on profiling anaesthetised neural dynamics across species selected as Top 1% of science preprints by QED Science.
+    url: https://the-one-percent.qedscience.com/
   - title: Brain Star Award
     date: '2026-05-15'
     awarder: Canadian Association for Neuroscience
@@ -202,6 +209,7 @@ awards:
     awarder: Canadian Association for Neuroscience
     summary: |
       Annual prize for research excellence, for my publication in _Nature Biomedical Engineering_.
+    url: https://can-acn.org/brain-star-award-winner-andrea-luppi/
   - title: 'Prize Laureate in Formal and Theoretical Sciences'
     date: '2024-11-11'
     awarder: Universal Scientific and Education Research Network (USERN)
