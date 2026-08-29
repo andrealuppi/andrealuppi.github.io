@@ -333,9 +333,9 @@ awards:
       National Excellence Registry for academic achievement.
 ---
 
-## About Me: Complex Systems Neuroscience
+## About Me: Neural Synthesis
 
-I am a computational and cognitive neuroscientist interested in how the brain gives rise to consciousness and flexible cognition. I work in _complex systems neuroscience_: I integrate imaging modalities and computational modelling across species, drawing on network science and information theory to understand how the brain's connectivity and dynamics support thought, perception, and awareness. My background is in philosophy, and I view my work as using experimental methods to answer big-picture philosophical questions.
+I am a computational and cognitive neuroscientist interested in how the brain gives rise to information processing and conscious experience. I work in complex systems neuroscience: I draw on network science and information theory to integrate multimodal neuroimaging and understand how the brain's connectivity and dynamics support thought, perception, and awareness. Cross-species comparison is a cornerstone of my approach, to learn about evolution and to inform translation discovery. Through computational modelling, I distill these integrative discoveries into mechanisms.   Neural Synthesis embodies this two-pronged approach: synthesis as integration, and synthesis as generation. I often look for the big picture: my background is in philosophy, and I view my work as using experimental methods to answer big-picture philosophical questions.
 
 A major focus of my research is understanding how brain networks reconfigure across different states — such as wakefulness, sleep, anesthesia, and disorders of consciousness — and what these changes reveal about the neural mechanisms of information processing and conscious experience. I am also interested in bridging biological and artificial intelligence.
 
