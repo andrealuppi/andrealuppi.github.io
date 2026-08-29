@@ -5,7 +5,7 @@ title: 'Disentangling high-order mechanisms and high-order behaviours in complex
 authors:
   - Fernando E. Rosas*
   - Pedro A. M. Mediano*
-  - admin*
+  - admin
   - Thomas F. Varley
   - Joseph T. Lizier
   - Sebastiano Stramaglia
