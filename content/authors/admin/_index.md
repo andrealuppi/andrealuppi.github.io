@@ -174,15 +174,14 @@ languages:
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below. url possible, also icon
-awards:
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below. url possible, also icon awards:
   - title: ERC Starting Grant ROSETTA
     date: '2026-09-03'
     awarder: European Research Council
     summary: |
       PI funding of EUR 1,500,000 to develop a functional coordinate system for the mammalian brain.
     url: https://www.ox.ac.uk/news/2026-08-25-exceptional-early-career-researchers-awarded-2026-european-research-council/
-   - title: Whole Brain Architecture Initiative Award
+  - title: Whole Brain Architecture Initiative Award
     date: '2026-07-01'
     awarder: Whole Brain Architecture Initiative
     summary: |
