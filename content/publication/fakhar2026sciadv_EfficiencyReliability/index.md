@@ -14,7 +14,7 @@ authors:
   - Duncan Astle
 
 date: '2026-09-04'
-doi: 'https://doi.org/https://doi.com/10.1126/sciadv.aef2894'
+doi: 'https://doi.org/10.1126/sciadv.aef2894'
 
 # Publication name
 publication: '_Science Advances_'
