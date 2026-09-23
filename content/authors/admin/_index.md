@@ -174,7 +174,8 @@ languages:
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below. url possible, also icon awards:
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below. url possible, also icon 
+awards:
   - title: ERC Starting Grant ROSETTA
     date: '2026-09-03'
     awarder: European Research Council
