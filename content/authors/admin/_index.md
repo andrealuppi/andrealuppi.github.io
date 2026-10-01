@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Wellcome Early Career Fellow
+role: Principal Investigator, ERC & Wellcome Trust
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -58,8 +58,8 @@ interests:
   - Artificial Intelligence and Neuro-AI
 
 education:
-  - area: PhD Neuroscience #(Gates Scholar)
-    institution: University of Cambridge #(Selwyn College)
+  - area: PhD Neuroscience 
+    institution: University of Cambridge (Gates Scholar)
     date_start: 2019-10-01
     date_end: 2022-06-01
     summary: |
@@ -176,6 +176,11 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below. url possible, also icon 
 awards:
+  - title: High Commendation, Oxford Open Research Prize
+    date: '2026-09-30'
+    awarder: Oxford Open Research
+    summary: |
+      In recognition of outstanding contribution to open research practices in neuroimaging.
   - title: ERC Starting Grant ROSETTA
     date: '2026-09-03'
     awarder: European Research Council
@@ -339,15 +344,14 @@ awards:
       National Excellence Registry for academic achievement.
 ---
 
-## About Me: Neural Synthesis
+## Neural Synthesis
 
-I am a computational and cognitive neuroscientist interested in how the brain gives rise to information processing and conscious experience. I work in complex systems neuroscience: I draw on network science and information theory to integrate multimodal neuroimaging and understand how the brain's connectivity and dynamics support thought, perception, and awareness. Cross-species comparison is a cornerstone of my approach, to learn about evolution and to inform translation discovery. Through computational modelling, I distill these integrative discoveries into mechanisms.   Neural Synthesis embodies this two-pronged approach: synthesis as integration, and synthesis as generation. I often look for the big picture: my background is in philosophy, and I view my work as using experimental methods to answer big-picture philosophical questions.
+I am a computational and cognitive neuroscientist interested in how the brain gives rise to information processing and conscious experience. I work in complex systems neuroscience: I draw on network science and information theory to integrate multimodal neuroimaging and understand how the brain's connectivity and dynamics support thought, perception, and awareness. Cross-species comparison is a cornerstone of my approach, to learn about evolution and to inform translation discovery. Through computational modelling, I distill these integrative discoveries into mechanisms. Neural Synthesis embodies this two-pronged approach: synthesis as integration, and synthesis as generation. I often look for the big picture: my background is in philosophy, and I view my work as using experimental methods to answer big-picture philosophical questions.
 
-A major focus of my research is understanding how brain networks reconfigure across different states — such as wakefulness, sleep, anesthesia, and disorders of consciousness — and what these changes reveal about the neural mechanisms of information processing and conscious experience. I am also interested in bridging biological and artificial intelligence.
+A major focus of my research is understanding how brain networks reconfigure across different states — such as wakefulness, sleep, anesthesia, and disorders of consciousness — and what these changes reveal about the neural mechanisms of information processing and conscious experience. I am also interested in bridging biological and artificial intelligence. My research programme is currently funded by the Wellcome Trust, St John's College, Cambridge, and a European Research Council Starting Grant ROSETTA.
 
 My work is interdisciplinary and collaborative to the core. Alongside my research, I advocate for interdisciplinary training and research ([list of open resurces for Neuro-AI training](https://github.com/8erberg/NeuroAI_Trainee_Resources)), [improving the research culture](https://doi.org/10.1038/s41583-025-00946-x) in neuroscience, and promoting access to higher education (['Ten simple rules for aspiring graduate students'](https://doi.org/10.1371/journal.pcbi.1009276)). 
 
 I regularly devote time to method-benchmarking efforts for the community, to increase reproducibility and credibility of neuroscientific results. Recent efforts include assessment of 700+ data-processing pipelines for trustworthy functional connectomics with fMRI ([paper](https://doi.org/10.1038/s41467-024-48781-5); [interactive tool](https://github.com/andrealuppi/Trustworthy-Functional-Connectomics)) and assessing the translational potential of macaque brain gene expression ([paper](https://doi.org/10.1126/sciadv.ads6967); [repo](https://github.com/netneurolab/luppi-genes-receptors-macaque)).
 
 If you share any of the interests above, please get in touch!
-
