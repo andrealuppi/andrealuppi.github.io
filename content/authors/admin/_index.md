@@ -354,6 +354,7 @@ Collaboration and interdisciplinarity are foundational to my work. Alongside my 
 
 I regularly devote time to method-benchmarking efforts for the community, to increase reproducibility and credibility of neuroscientific results. Recent efforts include assessment of 700+ data-processing pipelines for trustworthy functional connectomics with fMRI ([paper](https://doi.org/10.1038/s41467-024-48781-5); [interactive tool](https://github.com/andrealuppi/Trustworthy-Functional-Connectomics)) and assessing the translational potential of macaque brain gene expression ([paper](https://doi.org/10.1126/sciadv.ads6967); [repo](https://github.com/netneurolab/luppi-genes-receptors-macaque)).
 
-I am a Principal Investigator at Oxford's Department of Psychiatry: if you are considering applying for a DPhil (Oxford's term for a PhD) with me, please get in touch: I am always eager to hear from motivated students! 
+Interested in joining the team? I am a Principal Investigator at Oxford's Department of Psychiatry: if you are considering applying for a DPhil (Oxford's term for a PhD) with me, please get in touch: I am always eager to hear from motivated students! 
 [This](https://www.ox.ac.uk/admissions/graduate/courses/dphil-psychiatry) is the official program information page, and you may also apply through Oxford's exceptional 1+3 [Doctoral Program in Neuroscience](https://www.neuroscience.ox.ac.uk/1-plus-3-Doctoral-Programme-in-Neuroscience).
 You may find [here](https://www.ox.ac.uk/students/fees-funding/search) a searchable list of funding sources.
+I sometimes also have other positions open, and they will be advertised on the University's official job listing.
