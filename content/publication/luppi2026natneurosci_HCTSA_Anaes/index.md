@@ -44,7 +44,7 @@ abstract: 'Abstract
 summary: ''
 
 tags: []
-featured: false
+featured: true
 
 url_pdf: 'https://andrealuppi.github.io/publication/luppi2026natneurosci_HCTSA_Anaes/luppi2026natneurosci_HCTSA_Anaes.pdf'
 url_cite: 'https://andrealuppi.github.io/publication/luppi2026natneurosci_HCTSA_Anaes/cite.bib'
