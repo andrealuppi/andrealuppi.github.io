@@ -9,7 +9,7 @@ organizations:
   - name: University of Cambridge
   - name: FiveAI
 
-  profiles:
+profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/elisha-citron-700037269/
 
