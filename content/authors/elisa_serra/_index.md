@@ -8,7 +8,7 @@ role: DPhil Student
 organizations:
   - name: University of Oxford
 
-  profiles:
+profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/elisa-serra-174076151/
     
