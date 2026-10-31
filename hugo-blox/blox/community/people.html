@@ -205,7 +205,7 @@
             {{ if $show_bio }}
               {{ with .Summary }}
                 <div class="mt-4 text-sm leading-6 text-gray-600 dark:text-gray-300">
-                  {{ . | plainify | htmlUnescape | truncate 320 }}
+                  {{ . | plainify | htmlUnescape | truncate 500 }}
                 </div>
               {{ end }}
             {{ end }}
