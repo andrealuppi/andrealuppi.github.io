@@ -19,4 +19,4 @@ profiles:
 superuser: false
 ---
 
-Elisa's research investigates the neural dynamics of auditory memory, with a particular focus on ageing and dementia and the potential of musical paradigms for understanding and detecting cognitive decline.
+Elisa's research investigates the neural dynamics of auditory memory, with a particular focus on ageing and dementia and the potential of musical paradigms for understanding and detecting cognitive decline. She is co-supervised by Prof. Morten Kringalbach and Prof. Leonardo Bonetti from Aarhus.
