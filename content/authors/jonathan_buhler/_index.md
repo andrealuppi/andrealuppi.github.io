@@ -5,6 +5,9 @@ last_name: Buhler
 
 role: Alumnus (Cambridge MPhil in Basic and Translational Neuroscience)
 
+user_groups:
+  - Alumni
+
 organizations:
   - name: University of Cambridge
   - name: Literal Labs
