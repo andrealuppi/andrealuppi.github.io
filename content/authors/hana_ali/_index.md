@@ -5,6 +5,9 @@ last_name: Ali
 
 role: DPhil Student
 
+user_groups:
+  - Current Team
+
 organizations:
   - name: University of Oxford
 
