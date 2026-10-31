@@ -21,4 +21,4 @@ profiles:
 superuser: false
 ---
 
-Mario's research investigates how psychedelics affect the brain and their potential therapeutic effects, using computational modelling to study changes in large-scale brain dynamics.
+Mario's research (co-supervised by Prof. Morten Kringelbach) investigates how psychedelics affect the brain and their potential therapeutic effects, using computational modelling to study changes in large-scale brain dynamics.
