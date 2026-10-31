@@ -20,4 +20,4 @@ profiles:
 superuser: false
 ---
 
-Milan's MPhil project (co-supervised by Prof. Emmanuel Stamatakis) focused on the effects of ketamine anaesthesia on structure-function coupling in the rbain. He is currently a PhD student in NeuroAI at KU Leuven. His research bridges cognitive neuroscience and deep learning. He investigates learning and forgetting in humans and artificial neural networks, with a particular focus on continual learning and catastrophic forgetting.
+Milan's MPhil project (co-supervised by Prof. Emmanuel Stamatakis) focused on the effects of ketamine anaesthesia on structure-function coupling in the brain. He is currently a PhD student in NeuroAI at KU Leuven. His research bridges cognitive neuroscience and deep learning. He investigates learning and forgetting in humans and artificial neural networks, with a particular focus on continual learning and catastrophic forgetting.
