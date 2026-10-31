@@ -5,6 +5,9 @@ last_name: Orsenigo
 
 role: Visiting PhD Student
 
+user_groups:
+  - Alumni
+
 organizations:
   - name: University of Turin
 
