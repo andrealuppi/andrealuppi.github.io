@@ -8,7 +8,7 @@ role: Alumna (Cambridge MPhil in Cognitive Neuroscience)
 organizations:
   - name: University of Cambridge
 
-  profiles:
+profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/arina-aladysheva/
 
