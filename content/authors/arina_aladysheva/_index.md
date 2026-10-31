@@ -3,7 +3,7 @@ title: Arina Aladysheva
 first_name: Arina
 last_name: Aladysheva
 
-role: Cambridge MPhil in Cognitive Neuroscience
+role: MPhil in Cognitive Neuroscience
 
 user_groups:
   - Alumni
