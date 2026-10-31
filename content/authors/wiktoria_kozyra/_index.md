@@ -18,4 +18,4 @@ profiles:
 superuser: false
 ---
 
-Wiktoria's MPhil project (co-supervised by Prof. Emmanuel Stamatakis) investigated restoration of consciousness from anaesthesia using thalamic stimulation in the macaque. With interests in consciousness science, metacognition and higher-level cognition using computational approaches, she is now pursuing a DPhil in Experimental Psychology at Oxford.
+Wiktoria is interested in consciousness science, metacognition, and higher-level cognition using computational approaches. After her MPhil (co-supervised by prof. Emmanuel Stamatakis) she is now pursuing a DPhil in Experimental Psychology at Oxford.
