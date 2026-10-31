@@ -5,6 +5,9 @@ last_name: Stepanik
 
 role: DPhil Student
 
+user_groups:
+  - Current Team
+
 organizations:
   - name: University of Oxford
 
