@@ -17,9 +17,9 @@ sections:
 
   - block: people
     content:
-      title: MPhil Cambridge Alumni
+      title: Alumni
       user_groups:
-        - MPhil Cambridge Alumni
+        - Alumni
       sort_by: Params.last_name
       sort_ascending: true
     design:
