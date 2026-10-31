@@ -90,17 +90,33 @@
 
             {{/* Avatar */}}
             {{ if $avatar }}
-              {{ $avatar_image := $avatar.Fill "320x320 Center" }}
-
+            
+              {{ $avatar_focus := $person.avatar_focus | default "Top" }}
+              {{ $avatar_image := $avatar.Fill (printf "400x400 %s" $avatar_focus) }}
+            
               <a href="{{ .RelPermalink }}">
                 <img
-                  class="mx-auto h-48 w-48 rounded-full object-cover shadow-md"
                   src="{{ $avatar_image.RelPermalink }}"
-                  width="{{ $avatar_image.Width }}"
-                  height="{{ $avatar_image.Height }}"
+                  width="240"
+                  height="240"
                   loading="lazy"
-                  alt="{{ .Title }}">
+                  alt="{{ .Title }}"
+                  style="
+                    display: block;
+                    width: 240px !important;
+                    height: 240px !important;
+                    min-width: 240px;
+                    min-height: 240px;
+                    max-width: 240px;
+                    max-height: 240px;
+                    aspect-ratio: 1 / 1;
+                    object-fit: cover;
+                    border-radius: 50%;
+                    margin-left: auto;
+                    margin-right: auto;
+                  ">
               </a>
+            
             {{ end }}
 
 
