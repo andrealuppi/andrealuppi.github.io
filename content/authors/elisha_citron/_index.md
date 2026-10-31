@@ -5,6 +5,9 @@ last_name: Citron
 
 role: Alumnus (Cambridge MPhil in Cognitive Neuroscience)
 
+user_groups:
+  - Alumni
+
 organizations:
   - name: University of Cambridge
   - name: FiveAI
