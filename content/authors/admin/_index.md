@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Andrea Luppi, PhD
+title: Andrea Luppi's Research Group
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -344,17 +344,17 @@ awards:
       National Excellence Registry for academic achievement.
 ---
 
-## Neural Synthesis
+## Neural Synthesis: Dr Andrea Luppi's Research Group
 
-I am a computational and cognitive neuroscientist at the University of Oxford, interested in how the brain gives rise to information processing and conscious experience. I work in complex systems neuroscience: I draw on network science and information theory to integrate multimodal neuroimaging and understand how the brain's connectivity and dynamics support thought, perception, and awareness. Cross-species comparison is a cornerstone of my approach, to learn about evolution and to inform translation discovery. Through computational modelling, I distill these integrative discoveries into mechanisms. Neural Synthesis embodies this two-pronged approach: synthesis as integration, and synthesis as generation. I often look for the big picture: my background is in philosophy, and I view my work as using experimental methods to answer big-picture philosophical questions.
+I am a computational and cognitive neuroscientist at the University of Oxford, interested in how the brain gives rise to information processing and conscious experience. My group's research focus is complex systems neuroscience: we draw on network science and information theory to integrate multimodal neuroimaging and understand how the brain's connectivity and dynamics support thought, perception, and awareness. Cross-species comparison is a cornerstone of our approach, to learn about evolution and to inform translation discovery. Through computational modelling, we distill these integrative discoveries into mechanisms. The group's name, Neural Synthesis, embodies this two-pronged approach: synthesis as integration, and synthesis as generation. I often look for the big picture: my background is in philosophy, and I view my work as using experimental methods to answer big-picture philosophical questions.
 
-A major focus of my research is understanding how brain networks reconfigure across different states — such as wakefulness, sleep, anesthesia, and disorders of consciousness — and what these changes reveal about the neural mechanisms of information processing and conscious experience. I am also interested in bridging biological and artificial intelligence. My research programme is currently supported by the Wellcome Trust, St John's College, Cambridge, and a European Research Council Starting Grant (ROSETTA).
+A major focus of the group's research is understanding how brain networks reconfigure across different states — such as wakefulness, sleep, anesthesia, and disorders of consciousness — and what these changes reveal about the neural mechanisms of information processing and conscious experience. We are also interested in bridging biological and artificial intelligence. The research programme of the Neural Synthesis Group is generously supported by the Wellcome Trust, St John's College, Cambridge, and a European Research Council Starting Grant (ROSETTA).
 
-Collaboration and interdisciplinarity are foundational to my work. Alongside my research, I advocate for interdisciplinary training and research ([list of open resurces for Neuro-AI training](https://github.com/8erberg/NeuroAI_Trainee_Resources)), [improving the research culture](https://doi.org/10.1038/s41583-025-00946-x) in neuroscience, and promoting access to higher education (['Ten simple rules for aspiring graduate students'](https://doi.org/10.1371/journal.pcbi.1009276)). 
+Collaboration and interdisciplinarity are foundational to our work. Alongside my research, I advocate for interdisciplinary training and research ([list of open resurces for Neuro-AI training](https://github.com/8erberg/NeuroAI_Trainee_Resources)), [improving the research culture](https://doi.org/10.1038/s41583-025-00946-x) in neuroscience, and promoting access to higher education (['Ten simple rules for aspiring graduate students'](https://doi.org/10.1371/journal.pcbi.1009276)). 
 
 I regularly devote time to method-benchmarking efforts for the community, to increase reproducibility and credibility of neuroscientific results. Recent efforts include assessment of 700+ data-processing pipelines for trustworthy functional connectomics with fMRI ([paper](https://doi.org/10.1038/s41467-024-48781-5); [interactive tool](https://github.com/andrealuppi/Trustworthy-Functional-Connectomics)) and assessing the translational potential of macaque brain gene expression ([paper](https://doi.org/10.1126/sciadv.ads6967); [repo](https://github.com/netneurolab/luppi-genes-receptors-macaque)).
 
-Interested in joining the team? I am a Principal Investigator at Oxford's Department of Psychiatry: if you are considering applying for a DPhil (Oxford's term for a PhD) with me, please get in touch: I am always eager to hear from motivated students! 
+Interested in joining the [team](https://andrealuppi.github.io/team/)? I am a Principal Investigator at Oxford's Department of Psychiatry, and the group is hosted within Oxford's Centre for Eudaimonia and Human Flourishing. If you are considering applying for a DPhil (Oxford's term for a PhD) with me, please get in touch: I am always eager to hear from motivated students! 
 [This](https://www.ox.ac.uk/admissions/graduate/courses/dphil-psychiatry) is the official program information page, and you may also apply through Oxford's exceptional 1+3 [Doctoral Program in Neuroscience](https://www.neuroscience.ox.ac.uk/1-plus-3-Doctoral-Programme-in-Neuroscience).
 You may find [here](https://www.ox.ac.uk/students/fees-funding/search) a searchable list of funding sources.
-I sometimes also have other positions open, and they will be advertised on the University's official job listing.
+I sometimes also have other positions open, such as postdocs or research assistants: they will be advertised on the University's official job listing.
