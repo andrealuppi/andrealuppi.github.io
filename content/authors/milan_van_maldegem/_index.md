@@ -9,7 +9,7 @@ organizations:
   - name: University of Cambridge
   - name: KU Leuven
 
-  profiles:
+profiles:
   # - icon: at-symbol
   #   url: mailto:milan.vanmaldegem@kuleuven.be
   - icon: brands/linkedin
