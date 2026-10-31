@@ -18,4 +18,4 @@ profiles:
 superuser: false
 ---
 
-Arina's MPhil project applied information-theoretic approaches to functional neuroimaging, investigating how neural information relates to biomarkers and cognitive changes in Alzheimer's disease.
+Arina's MPhil project (co-supervised by Dr Helena Gellersen) applied information-theoretic approaches to functional neuroimaging, investigating how neural information relates to biomarkers and cognitive changes in Alzheimer's disease.
