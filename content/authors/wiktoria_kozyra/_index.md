@@ -3,7 +3,7 @@ title: Wiktoria Kozyra
 first_name: Wiktoria
 last_name: Kozyra
 
-role: Cambridge MPhil in Cognitive Neuroscience
+role: MPhil in Cognitive Neuroscience
 
 user_groups:
   - Alumni
