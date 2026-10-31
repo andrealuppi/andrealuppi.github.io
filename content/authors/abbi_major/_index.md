@@ -5,6 +5,9 @@ last_name: Major
 
 role: Research Assistant
 
+user_groups:
+  - Current Team
+
 organizations:
   - name: University of Oxford
 
