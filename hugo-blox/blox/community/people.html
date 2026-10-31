@@ -1,1 +1,219 @@
+{{/* Custom People blox for HugoBlox Tailwind */}}
 
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+{{/* Display options */}}
+{{ $show_social := true }}
+{{ if isset $block.design "show_social" }}
+  {{ $show_social = $block.design.show_social }}
+{{ end }}
+
+{{ $show_interests := false }}
+{{ if isset $block.design "show_interests" }}
+  {{ $show_interests = $block.design.show_interests }}
+{{ end }}
+
+{{ $show_role := true }}
+{{ if isset $block.design "show_role" }}
+  {{ $show_role = $block.design.show_role }}
+{{ end }}
+
+{{ $show_organizations := true }}
+{{ if isset $block.design "show_organizations" }}
+  {{ $show_organizations = $block.design.show_organizations }}
+{{ end }}
+
+{{ $show_bio := true }}
+{{ if isset $block.design "show_bio" }}
+  {{ $show_bio = $block.design.show_bio }}
+{{ end }}
+
+
+<div class="mx-auto max-w-screen-xl px-6 lg:px-8 py-8">
+
+  {{/* Section title */}}
+  {{ with $block.content.title }}
+    <div class="text-center mb-12">
+      <h2 class="text-3xl font-bold tracking-tight text-gray-900 dark:text-white">
+        {{ . | emojify | $page.RenderString }}
+      </h2>
+
+      {{ with $block.content.subtitle }}
+        <p class="mt-3 text-lg text-gray-600 dark:text-gray-300">
+          {{ . | emojify | $page.RenderString }}
+        </p>
+      {{ end }}
+    </div>
+  {{ end }}
+
+  {{ with $block.content.text }}
+    <div class="prose prose-slate dark:prose-invert mx-auto mb-10">
+      {{ . | emojify | $page.RenderString }}
+    </div>
+  {{ end }}
+
+
+  {{/* Loop through requested groups */}}
+  {{ range $group := $block.content.user_groups }}
+
+    {{/* Find authors belonging to this group */}}
+    {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice $group) }}
+
+    {{/* Sort authors */}}
+    {{ $sort_by := $block.content.sort_by | default "Params.last_name" }}
+    {{ $sort_by = partial "functions/get_sort_by_parameter" $sort_by }}
+
+    {{ $sort_ascending := $block.content.sort_ascending | default true }}
+    {{ $sort_order := cond $sort_ascending "asc" "desc" }}
+    {{ $query = sort $query $sort_by $sort_order }}
+
+
+    {{ if gt (len $query) 0 }}
+
+      {{/* If one blox contains multiple groups, print group heading */}}
+      {{ if gt (len $block.content.user_groups) 1 }}
+        <h3 class="text-2xl font-bold text-center text-gray-900 dark:text-white mb-8 mt-12">
+          {{ $group }}
+        </h3>
+      {{ end }}
+
+
+      <div class="grid grid-cols-1 gap-x-8 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
+
+        {{ range $query }}
+
+          {{ $person := .Params }}
+          {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
+
+          <article class="text-center">
+
+            {{/* Avatar */}}
+            {{ if $avatar }}
+              {{ $avatar_image := $avatar.Fill "320x320 Center" }}
+
+              <a href="{{ .RelPermalink }}">
+                <img
+                  class="mx-auto h-48 w-48 rounded-full object-cover shadow-md"
+                  src="{{ $avatar_image.RelPermalink }}"
+                  width="{{ $avatar_image.Width }}"
+                  height="{{ $avatar_image.Height }}"
+                  loading="lazy"
+                  alt="{{ .Title }}">
+              </a>
+            {{ end }}
+
+
+            {{/* Name */}}
+            <h3 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">
+              <a href="{{ .RelPermalink }}">
+                {{ .Title }}
+              </a>
+            </h3>
+
+
+            {{/* Role */}}
+            {{ if and $show_role $person.role }}
+              <div class="mt-1 text-base text-gray-600 dark:text-gray-300">
+                {{ $person.role | markdownify | emojify }}
+              </div>
+            {{ end }}
+
+
+            {{/* Organizations */}}
+            {{ if and $show_organizations $person.organizations }}
+              <div class="mt-1 text-sm text-gray-500 dark:text-gray-400">
+
+                {{ range $person.organizations }}
+                  <div>
+                    {{ if .url }}
+                      <a href="{{ .url }}"
+                         target="_blank"
+                         rel="noopener"
+                         class="hover:underline">
+                        {{ .name }}
+                      </a>
+                    {{ else }}
+                      {{ .name }}
+                    {{ end }}
+                  </div>
+                {{ end }}
+
+              </div>
+            {{ end }}
+
+
+            {{/* Social/profile icons */}}
+            {{ if and $show_social $person.profiles }}
+
+              <div class="mt-4 flex justify-center gap-4 text-gray-600 dark:text-gray-300">
+
+                {{ range $person.profiles }}
+
+                  {{ $link := .url | default .link }}
+
+                  {{ if $link }}
+
+                    {{ $scheme := (urls.Parse $link).Scheme }}
+                    {{ $target := "" }}
+
+                    {{ if in (slice "http" "https") $scheme }}
+                      {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+                    {{ end }}
+
+                    <a
+                      href="{{ $link | safeURL }}"
+                      {{ $target | safeHTMLAttr }}
+                      aria-label="{{ .icon }}"
+                      class="hover:text-primary-600">
+
+                      {{ partial "functions/get_icon"
+                          (dict
+                            "name" .icon
+                            "attributes" "style=\"height:1.25rem;width:1.25rem;\""
+                          )
+                      }}
+
+                    </a>
+
+                  {{ end }}
+
+                {{ end }}
+
+              </div>
+
+            {{ end }}
+
+
+            {{/* Short biography from the Markdown below the front matter */}}
+            {{ if $show_bio }}
+              {{ with .Summary }}
+                <div class="mt-4 text-sm leading-6 text-gray-600 dark:text-gray-300">
+                  {{ . | plainify | truncate 320 }}
+                </div>
+              {{ end }}
+            {{ end }}
+
+
+            {{/* Interests, if enabled */}}
+            {{ if and $show_interests $person.interests }}
+              <div class="mt-4 text-sm text-gray-500 dark:text-gray-400">
+                {{ delimit $person.interests " · " }}
+              </div>
+            {{ end }}
+
+          </article>
+
+        {{ end }}
+
+      </div>
+
+    {{ else }}
+
+      {{ warnf "People blox: no authors found in user group %q" $group }}
+
+    {{ end }}
+
+  {{ end }}
+
+</div>
