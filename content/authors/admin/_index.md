@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Andrea Luppi's Research Group
+title: Andrea Luppi, PhD
 
 # Name pronunciation (optional)
 name_pronunciation: ''
