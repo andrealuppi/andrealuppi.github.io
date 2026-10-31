@@ -5,6 +5,9 @@ last_name: Kozyra
 
 role: Alumna (Cambridge MPhil in Cognitive Neuroscience)
 
+user_groups:
+  - Alumni
+
 organizations:
   - name: University of Cambridge
   - name: University of Oxford
