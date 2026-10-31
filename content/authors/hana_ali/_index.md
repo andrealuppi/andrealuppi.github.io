@@ -20,4 +20,4 @@ profiles:
 superuser: false
 ---
 
-Hana's research combines computational neuroscience and machine learning, with a focus on learning dynamics and information-theoretic approaches to understanding biological and artificial neural systems.
+Hana's doctoral research combines computational neuroscience and machine learning, with a focus on learning dynamics and information-theoretic approaches to understanding biological and artificial neural systems. She is co-supervised by Prof. Morten Kringalbach, Dr. Ruben Laukkonen, and Prof. Pedro Mediano from Imperial College London. 
